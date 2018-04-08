@@ -4,6 +4,14 @@
   <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the language of your source text isn’t listed, pick a language that is, double-click on the Language Name field, and change it to the abbreviation for your language.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052546Z" creationid="Vasee" creationdate="20180408T052546Z">
+        <seg>Pokud jazyk vašeho zdrojového textu na seznamu, vyberte jazyk, který je a dvakrát klikněte na pole s názvem jazyka a změňte ho na zkratku vašeho jazyka.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
