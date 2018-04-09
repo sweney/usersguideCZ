@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_r10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -128,8 +128,8 @@
       <tuv lang="EN-US">
         <seg>by Susan Welsh &amp; Marc Prior</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052952Z" creationid="Vasee" creationdate="20180408T052952Z">
-        <seg>od Susan Welsh a Marca Priora</seg>
+      <tuv lang="cs-CZ" changeid="sweney" changedate="20180409T124034Z" creationid="Vasee" creationdate="20180408T052952Z">
+        <seg>od Susan Welshová a Marca Priora</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
