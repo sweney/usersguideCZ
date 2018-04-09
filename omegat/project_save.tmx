@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052933Z" creationid="Vasee" creationdate="20180408T052933Z">
         <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A copy of the license is included in the section entitled “GNU Free Documentation License.”</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180409T052852Z" creationid="Pan Václav" creationdate="20180409T052852Z">
+        <seg>Tohle je druhá zkouška na druhém počítači.</seg>
       </tuv>
     </tu>
     <tu>
