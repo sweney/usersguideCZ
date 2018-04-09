@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2014 Susan Welsh and Marc Prior &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T053019Z" creationid="Vasee" creationdate="20180408T053019Z">
-        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt;Susan Welsh a Marca Priora&lt;/f1&gt;</seg>
+      <tuv lang="cs-CZ" changeid="sweney" changedate="20180409T124159Z" creationid="Vasee" creationdate="20180408T053019Z">
+        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt;Susan Welsh &amp; Marc Prior&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="EN-US">
         <seg>Screenshots from OmegaT versions: 1.6.0, 3.0.8_2&lt;bk0/&gt; &lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="bures" changedate="20180409T103008Z" creationid="bures" creationdate="20180409T103008Z">
-        <seg>Zkouška na notebooku s Liunxem. Great job, my dude! Screenshots from OmegaT versions: 1.6.0, 3.0.8_2&lt;bk0/&gt; &lt;br1/&gt;</seg>
+      <tuv lang="cs-CZ" changeid="sweney" changedate="20180409T124317Z" creationid="bures" creationdate="20180409T103008Z">
+        <seg>Zkouška na notebooku s Linuxem. Great job, my dude! And from Mac.... paráda Screenshots from OmegaT versions: 1.6.0, 3.0.8_2&lt;bk0/&gt; &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
