@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_b37e3ab" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Sweney" changedate="20180409T073210Z" creationid="Sweney" creationdate="20180409T073210Z">
         <seg>Obsah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is a CAT tool and why are they useful?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SweneyDGTOmegaT" changedate="20180409T141302Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
+        <seg>Co to je ksakra kočicí nástroj, a proč mám o tom mít nějaký zájem?</seg>
       </tuv>
     </tu>
     <tu>
