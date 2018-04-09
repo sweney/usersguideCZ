@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -90,6 +90,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180409T051007Z" creationid="Vasee" creationdate="20180409T051007Z">
         <seg>Tohle je zkouška.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refers to OmegaT version: 3.0.8_2</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180409T053211Z" creationid="Vasee" creationdate="20180409T053211Z">
+        <seg>Tohle je zkouška na hlavním pc č2</seg>
       </tuv>
     </tu>
     <tu>
