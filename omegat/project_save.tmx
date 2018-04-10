@@ -70,10 +70,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Downloading OmegaT</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200928Z" creationid="bures" creationdate="20180410T200928Z">
+        <seg>Stáhnutí OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the language of your source text isn’t listed, pick a language that is, double-click on the Language Name field, and change it to the abbreviation for your language.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052546Z" creationid="Vasee" creationdate="20180408T052546Z">
         <seg>Pokud jazyk vašeho zdrojového textu na seznamu, vyberte jazyk, který je a dvakrát klikněte na pole s názvem jazyka a změňte ho na zkratku vašeho jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200941Z" creationid="bures" creationdate="20180410T200941Z">
+        <seg>Instalace OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intended readership</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200838Z" creationid="bures" creationdate="20180410T200838Z">
+        <seg>Cílová skupina pro tento manuál</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,10 +166,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The OmegaT user interface</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200956Z" creationid="bures" creationdate="20180410T200956Z">
+        <seg>Uživatelské prostředí OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What is a CAT tool and why are they useful?</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="SweneyDGTOmegaT" changedate="20180409T141302Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
-        <seg>Co to je ksakra kočicí nástroj, a proč mám o tom mít nějaký zájem?</seg>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200916Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
+        <seg>Co to jsou CAT nástroje a jak mi mohou pomoct?</seg>
       </tuv>
     </tu>
     <tu>
