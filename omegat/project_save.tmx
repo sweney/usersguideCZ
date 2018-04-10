@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f2&gt;Please note that owing to the pace at which OmegaT is being developed, the appearance of the screenshots and possibly some other information may have changed slightly.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200715Z" creationid="bures" creationdate="20180410T200715Z">
+        <seg>Z důvodu rychlosti, kterou je OmegaT vyvíjena je možné, že se snímky obrazovky, popřípadě informace v tomto manuálu obsažené, mohly změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of the license is included in the section entitled “GNU Free Documentation License.”</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195825Z" creationid="Pan Václav" creationdate="20180409T052852Z">
