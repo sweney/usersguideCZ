@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_r10323" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -48,8 +48,8 @@
       <tuv lang="EN-US">
         <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2014 Susan Welsh and Marc Prior &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="sweney" changedate="20180409T124159Z" creationid="Vasee" creationdate="20180408T053019Z">
-        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt;Susan Welsh &amp; Marc Prior&lt;/f1&gt;</seg>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T183311Z" creationid="Vasee" creationdate="20180408T053019Z">
+        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt;Susan Welshová &amp; Marc Prior&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -144,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>by Susan Welsh &amp; Marc Prior</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="sweney" changedate="20180409T124034Z" creationid="Vasee" creationdate="20180408T052952Z">
-        <seg>od Susan Welshová a Marca Priora</seg>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T183222Z" creationid="Vasee" creationdate="20180408T052952Z">
+        <seg>od Susan Welshové a Marca Priora</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
