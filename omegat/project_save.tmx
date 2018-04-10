@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_r10323" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>A copy of the license is included in the section entitled “GNU Free Documentation License.”</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180409T094349Z" creationid="Pan Václav" creationdate="20180409T052852Z">
-        <seg>Tohle je druhá zkouška na druhém počítači. Vyzkoušel i Radim Sazima a Václav potvrzuje, že to vidí. Funguje bez problému.</seg>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195825Z" creationid="Pan Václav" creationdate="20180409T052852Z">
+        <seg>Kopie této licence se nachází v sekci "GNU Free Documentation License"</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180409T051007Z" creationid="Vasee" creationdate="20180409T051007Z">
-        <seg>Tohle je zkouška.</seg>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195702Z" creationid="Vasee" creationdate="20180409T051007Z">
+        <seg>Tento dokument můžete kopírovat, šířit nebo upravovat na základě ustanovení GNU Free Documentation License, verze 1.2 nebo jakékoliv později vydané nadací Free Software Foundation. TODO</seg>
       </tuv>
     </tu>
     <tu>
