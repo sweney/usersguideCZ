@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -746,6 +746,78 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114705Z" creationid="R2D2" creationdate="20180411T114705Z">
         <seg>Dorset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Individual_medley&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193459Z" creationid="R2D2" creationdate="20180411T193459Z">
+        <seg>en.wikipedia.org/wiki/Individual_medley&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Phytosociology</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193446Z" creationid="R2D2" creationdate="20180411T193446Z">
+        <seg>en.wikipedia.org/wiki/Phytosociology</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Russian&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193453Z" creationid="R2D2" creationdate="20180411T193453Z">
+        <seg>en.wikipedia.org/wiki/Russian&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193455Z" creationid="R2D2" creationdate="20180411T193455Z">
+        <seg>en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193456Z" creationid="R2D2" creationdate="20180411T193456Z">
+        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Russky_Island</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193457Z" creationid="R2D2" creationdate="20180411T193457Z">
+        <seg>en.wikipedia.org/wiki/Russky_Island</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Share_%28finance%29&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193449Z" creationid="R2D2" creationdate="20180411T193449Z">
+        <seg>en.wikipedia.org/wiki/Share_%28finance%29&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Shareholder</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193451Z" creationid="R2D2" creationdate="20180411T193451Z">
+        <seg>en.wikipedia.org/wiki/Shareholder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/World_records_in_swimming</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193501Z" creationid="R2D2" creationdate="20180411T193501Z">
+        <seg>en.wikipedia.org/wiki/World_records_in_swimming</seg>
       </tuv>
     </tu>
     <tu>
