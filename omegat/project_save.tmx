@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;second project uses an HTML file or set of files, downloaded from the Internet, and demonstrates OmegaT’s capability to deal with graphics, &lt;s1/&gt;complex layout, and complex file structure.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095135Z" creationid="Vasee" creationdate="20180411T095135Z">
+        <seg>&lt;t0/&gt;Druhý projekt používá HTML soubor nebo sadu souborů, stažených z internetu, které demonstrují schopnosti nástroje vypořádat se s grafikou, &lt;s1/&gt; komplexním rozvržením stránky a strukturou souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OmegaT user group</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T073040Z" creationid="Turih" creationdate="20180411T073040Z">
