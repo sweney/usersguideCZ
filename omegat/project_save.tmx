@@ -326,6 +326,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>English to German</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114755Z" creationid="R2D2" creationdate="20180411T114755Z">
+        <seg>angličtina - němčina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English to Italian</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114935Z" creationid="R2D2" creationdate="20180411T114935Z">
+        <seg>angličtina - italština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final proofreading, correction, and delivery</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T071723Z" creationid="Turih" creationdate="20180411T070731Z">
@@ -630,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>construction</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114927Z" creationid="R2D2" creationdate="20180411T114927Z">
+        <seg>stavebnictví</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dorset</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114705Z" creationid="R2D2" creationdate="20180411T114705Z">
@@ -674,6 +698,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114440Z" creationid="R2D2" creationdate="20180411T114440Z">
         <seg>plavání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yoga</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T115005Z" creationid="R2D2" creationdate="20180411T115005Z">
+        <seg>jóga</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
