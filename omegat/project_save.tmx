@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>(For the purposes of this tutorial, you may use .docx files according to this procedure, although in fact .docx files do not require the mediation of Open Office Writer.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122026Z" creationid="Pan Václav" creationdate="20180411T122026Z">
-        <seg>(Pro účely tohoto tutoriálu můžete použít .docx soubory vytvořené podle zmíněné procedury, soubory .docx nicméně nevyžadují použití programu Open Office Writer.</seg>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122320Z" creationid="Pan Václav" creationdate="20180411T122026Z">
+        <seg>(Pro účely tohoto tutoriálu můžete použít .docx soubory vytvořené podle zmíněné procedury, soubory .docx nevyžadují použití programu Open Office Writer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click and drag the newly created .odt file to the &lt;f0&gt;/source&lt;/f0&gt; folder of your &lt;f1&gt;My Project-1&lt;/f1&gt; folder, which you created in Step &lt;f2&gt;5&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122428Z" creationid="Pan Václav" creationdate="20180411T122428Z">
+        <seg>Klikněte a přesuňte nově vytvořený .odt soubor do složky &lt;f0&gt;/source&lt;/f0&gt; vaší složky &lt;f1&gt;Muj Projekt-1&lt;/f1&gt;, který jste vytvořili v kroku číslo &lt;f2&gt;5&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm the segmentation rules and then creation of the project with OK.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093409Z" creationid="Vasee" creationdate="20180411T093409Z">
@@ -312,8 +320,8 @@
       <tuv lang="EN-US">
         <seg>Double-click on the file.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095411Z" creationid="Vasee" creationdate="20180411T095411Z">
-        <seg>Na soubor dvakrát klikněte.</seg>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122606Z" creationid="Vasee" creationdate="20180411T095411Z">
+        <seg>Na složku dvakrát klikněte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -462,10 +470,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Launch OmegaT and click Project &gt; Open.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122521Z" creationid="Pan Václav" creationdate="20180411T122521Z">
+        <seg>Otevřete OmeguT a klikněte na Projekt &gt; Otevřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Launch Open Office Writer and create a new text document.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121453Z" creationid="Pan Václav" creationdate="20180411T121453Z">
         <seg>Otevřete Open Office Writer a vytvořte nový textový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to &lt;f0&gt;My Project-1 &lt;/f0&gt;(it will have the OmegaT icon beside it).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122559Z" creationid="Pan Václav" creationdate="20180411T122559Z">
+        <seg>Vyhledejte &lt;f0&gt;Muj Projekt-1 &lt;/f0&gt;(tato složka bude mít OmegaT ikonu).</seg>
       </tuv>
     </tu>
     <tu>
