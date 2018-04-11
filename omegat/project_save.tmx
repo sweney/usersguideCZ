@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Checking your translation</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T070220Z" creationid="Turih" creationdate="20180411T070220Z">
+        <seg>Ověření vašeho překladu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052956Z" creationid="Vasee" creationdate="20180408T052956Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200928Z" creationid="bures" creationdate="20180410T200928Z">
         <seg>Stáhnutí OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handling tags</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T070206Z" creationid="Turih" creationdate="20180411T070206Z">
+        <seg>Manipulace s tagy</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +362,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065546Z" creationid="Turih" creationdate="20180411T065546Z">
         <seg>Překládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validating tags, creating target documents</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T070332Z" creationid="Turih" creationdate="20180411T070332Z">
+        <seg>Ověřování tagů, vytváření cílových dokumentů</seg>
       </tuv>
     </tu>
     <tu>
