@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consult the User’s Manual for further information.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121256Z" creationid="Pan Václav" creationdate="20180411T121256Z">
+        <seg>Více informací najdete v manuálu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052956Z" creationid="Vasee" creationdate="20180408T052956Z">
