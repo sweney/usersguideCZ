@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(For the purposes of this tutorial, you may use .docx files according to this procedure, although in fact .docx files do not require the mediation of Open Office Writer.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122026Z" creationid="Pan Václav" creationdate="20180411T122026Z">
+        <seg>(Pro účely tohoto tutoriálu můžete použít .docx soubory vytvořené podle zmíněné procedury, soubory .docx nicméně nevyžadují použití programu Open Office Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>18</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065207Z" creationid="Turih" creationdate="20180411T065207Z">
@@ -434,6 +442,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093337Z" creationid="Vasee" creationdate="20180411T092919Z">
         <seg>V tuto chvíli nemá smysl pravidla segmentace upravovat. Poskytnutá základní pravidla by měla pro účely demonstrace stačit, dokonce i pro jiný (zdrojový) jazyk, pokud je interpunkce podobná (např.: nepoužívejte pravidla segmentace pro japonštinu, pokud překládáte z italštiny).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should include at least some formatting, such as title, subheads, font changes.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121824Z" creationid="Pan Václav" creationdate="20180411T121824Z">
+        <seg>V dokumentu by mělo být alespoň nějaké známky formátování, jako jsou nadpis, podnadpis, změny fontu.</seg>
       </tuv>
     </tu>
     <tu>
