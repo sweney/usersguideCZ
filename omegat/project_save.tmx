@@ -240,8 +240,8 @@
       <tuv lang="EN-US">
         <seg>Downloading the supplementary materials</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T071950Z" creationid="Turih" creationdate="20180411T071950Z">
-        <seg>Stažení doplňkových </seg>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072129Z" creationid="Turih" creationdate="20180411T071950Z">
+        <seg>Stažení doplňkových materiálů </seg>
       </tuv>
     </tu>
     <tu>
@@ -374,10 +374,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The glossary function</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072433Z" creationid="Turih" creationdate="20180411T072433Z">
+        <seg>Funkce Glosáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translating</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065546Z" creationid="Turih" creationdate="20180411T065546Z">
         <seg>Překládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation memory (fuzzy match function)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072325Z" creationid="Turih" creationdate="20180411T072325Z">
+        <seg>Překladová paměť (funkce Přibližného překladu)</seg>
       </tuv>
     </tu>
     <tu>
