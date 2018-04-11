@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See User‘s Manual when you are ready for the fine points.)File &gt; Save As, name the file, and close it in .odt format.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122302Z" creationid="Pan Václav" creationdate="20180411T122302Z">
+        <seg>Až budete připraveni na pokročilejší funkce, obraťte se na manuál). Soubor &gt; Uložit jako, jméno souboru a uložte ve formátu .odt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Sweney" changedate="20180409T073210Z" creationid="Sweney" creationdate="20180409T073210Z">
