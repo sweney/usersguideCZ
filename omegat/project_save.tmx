@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>18</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065207Z" creationid="Turih" creationdate="20180411T065207Z">
+        <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>19</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065210Z" creationid="Turih" creationdate="20180411T065210Z">
+        <seg>19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052933Z" creationid="Vasee" creationdate="20180408T052933Z">
@@ -26,6 +42,118 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T064947Z" creationid="Turih" creationdate="20180411T064947Z">
         <seg>6.A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.A.1.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065150Z" creationid="Turih" creationdate="20180411T065150Z">
+        <seg>6.A.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.A.2.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065153Z" creationid="Turih" creationdate="20180411T065153Z">
+        <seg>6.A.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.A.3.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065155Z" creationid="Turih" creationdate="20180411T065155Z">
+        <seg>6.A.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.A.4.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065158Z" creationid="Turih" creationdate="20180411T065158Z">
+        <seg>6.A.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.B.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065159Z" creationid="Turih" creationdate="20180411T065159Z">
+        <seg>6.B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.B.1.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065201Z" creationid="Turih" creationdate="20180411T065201Z">
+        <seg>6.B.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.B.2.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065204Z" creationid="Turih" creationdate="20180411T065204Z">
+        <seg>6.B.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.B.3.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065208Z" creationid="Turih" creationdate="20180411T065208Z">
+        <seg>6.B.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.B.4.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065211Z" creationid="Turih" creationdate="20180411T065211Z">
+        <seg>6.B.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065138Z" creationid="Turih" creationdate="20180411T065138Z">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065214Z" creationid="Turih" creationdate="20180411T065214Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065152Z" creationid="Turih" creationdate="20180411T065152Z">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065217Z" creationid="Turih" creationdate="20180411T065217Z">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065202Z" creationid="Turih" creationdate="20180411T065202Z">
+        <seg>9</seg>
       </tuv>
     </tu>
     <tu>
