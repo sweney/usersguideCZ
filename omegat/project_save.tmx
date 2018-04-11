@@ -320,7 +320,7 @@
       <tuv lang="EN-US">
         <seg>English to French</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114435Z" creationid="R2D2" creationdate="20180411T114435Z">
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114727Z" creationid="R2D2" creationdate="20180411T114727Z">
         <seg>angličtina - francouzština</seg>
       </tuv>
     </tu>
@@ -630,10 +630,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dorset</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114705Z" creationid="R2D2" creationdate="20180411T114705Z">
+        <seg>Dorset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>folders</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094428Z" creationid="Vasee" creationdate="20180411T094428Z">
         <seg>folders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medicine</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114747Z" creationid="R2D2" creationdate="20180411T114747Z">
+        <seg>lékařství</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +666,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114016Z" creationid="R2D2" creationdate="20180411T114016Z">
         <seg>akcie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>swimming</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114440Z" creationid="R2D2" creationdate="20180411T114440Z">
+        <seg>plavání</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
