@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Launch Open Office Writer and create a new text document.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121453Z" creationid="Pan Václav" creationdate="20180411T121453Z">
+        <seg>Otevřete Open Office Writer a vytvořte nový textový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT for</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052938Z" creationid="Vasee" creationdate="20180408T052938Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072912Z" creationid="Turih" creationdate="20180411T072815Z">
         <seg>Funkce „Hledat v textu“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then use File &gt; Open to Choose open any short MS Word document (.docx format) document in the source language.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121729Z" creationid="Pan Václav" creationdate="20180411T121729Z">
+        <seg>Pro otevření jakéhokoli MS Word dokumentu (ve formátu .docx) použijte Soubor &gt; Otevřít.</seg>
       </tuv>
     </tu>
     <tu>
