@@ -438,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Project Files window is displayed, which is empty since your project does not yet contain any files.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093559Z" creationid="Vasee" creationdate="20180411T093559Z">
+        <seg>Zobrazí se vám okno Soubory projektu, které je prázdné, protože váš projekt neobsahuje žádné soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The glossary function</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072917Z" creationid="Turih" creationdate="20180411T072433Z">
