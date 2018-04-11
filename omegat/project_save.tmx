@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f3&gt;Please proceed to Project 2 after completing Project 1!&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095339Z" creationid="Vasee" creationdate="20180411T095339Z">
+        <seg>&lt;f3&gt;Po dokončení Projektu 1 přejděte na Projekt 2!&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of the license is included in the section entitled “GNU Free Documentation License.”</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195825Z" creationid="Pan Václav" creationdate="20180409T052852Z">
@@ -274,6 +282,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092712Z" creationid="Vasee" creationdate="20180411T092605Z">
         <seg>To stejné udělejte s polem &lt;t4/&gt;Vzor jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click on the file.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095411Z" creationid="Vasee" creationdate="20180411T095411Z">
+        <seg>Na soubor dvakrát klikněte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;f2&gt;6.B.1-6.B.4&lt;/f2&gt;, below.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095259Z" creationid="Vasee" creationdate="20180411T095259Z">
+        <seg>Podívejte se na &lt;f2&gt;6.B.1-6.B.4&lt;/f2&gt; níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table of Contents</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Sweney" changedate="20180409T073210Z" creationid="Sweney" creationdate="20180409T073210Z">
@@ -494,6 +518,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There you will learn how translation memories, glossaries, and the search function work.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095204Z" creationid="Vasee" creationdate="20180411T095204Z">
+        <seg>V tom to projektu se naučíte, jak funguje překladatelská paměť, glosáš a funkce vyhledávání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These capabilities can be used regardless of the file type (.docx, .xlsx, .odt, .txt, .html, etc.).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095246Z" creationid="Vasee" creationdate="20180411T095246Z">
+        <seg>Tyto schopnosti nástroje OmegaT můžete používat nehledě na typ souboru (.docx, .xlsx, .odt, .txt, .html, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They are all empty.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093912Z" creationid="Vasee" creationdate="20180411T093912Z">
@@ -530,6 +570,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T070332Z" creationid="Turih" creationdate="20180411T070332Z">
         <seg>Ověřování tagů, vytváření cílových dokumentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We ignore these in Project 1 only for training purposes.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095321Z" creationid="Vasee" creationdate="20180411T095321Z">
+        <seg>Pro účely cvičení budeme tyto funkce v Projektu 1 ignorovat.</seg>
       </tuv>
     </tu>
     <tu>
