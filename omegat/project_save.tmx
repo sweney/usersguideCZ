@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The OmegaT user group</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T073040Z" creationid="Turih" creationdate="20180411T073040Z">
+        <seg>Uživatelská skupina aplikace OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OmegaT user interface</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200956Z" creationid="bures" creationdate="20180410T200956Z">
@@ -376,16 +384,16 @@
       <tuv lang="EN-US">
         <seg>The glossary function</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072433Z" creationid="Turih" creationdate="20180411T072433Z">
-        <seg>Funkce Glosáře</seg>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072917Z" creationid="Turih" creationdate="20180411T072433Z">
+        <seg>Funkce „Glosář“</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The text search (find) function</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072815Z" creationid="Turih" creationdate="20180411T072815Z">
-        <seg>Funkce Hledat v textu</seg>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072912Z" creationid="Turih" creationdate="20180411T072815Z">
+        <seg>Funkce „Hledat v textu“</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +408,8 @@
       <tuv lang="EN-US">
         <seg>Translation memory (fuzzy match function)</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072325Z" creationid="Turih" creationdate="20180411T072325Z">
-        <seg>Překladová paměť (funkce Přibližného překladu)</seg>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072922Z" creationid="Turih" creationdate="20180411T072325Z">
+        <seg>Překladová paměť (funkce „Přibližné překlady“</seg>
       </tuv>
     </tu>
     <tu>
