@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do the same with the Language &lt;t4/&gt;Pattern field.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092712Z" creationid="Vasee" creationdate="20180411T092605Z">
+        <seg>To stejné udělejte s polem &lt;t4/&gt;Vzor jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Downloading OmegaT</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200928Z" creationid="bures" creationdate="20180410T200928Z">
@@ -272,8 +280,16 @@
       <tuv lang="EN-US">
         <seg>If the language of your source text isn’t listed, pick a language that is, double-click on the Language Name field, and change it to the abbreviation for your language.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052546Z" creationid="Vasee" creationdate="20180408T052546Z">
-        <seg>Pokud jazyk vašeho zdrojového textu na seznamu, vyberte jazyk, který je a dvakrát klikněte na pole s názvem jazyka a změňte ho na zkratku vašeho jazyka.</seg>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092549Z" creationid="Vasee" creationdate="20180408T052546Z">
+        <seg>Pokud jazyk vašeho zdrojového textu není na seznamu, vyberte jazyk, který na něm je a dvakrát klikněte na pole s názvem jazyka a změňte ho na zkratku vašeho jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you use OmegaT for any length of time in the future, you will want to customize the segmentation rules.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092846Z" creationid="Vasee" creationdate="20180411T092846Z">
+        <seg>Pokud budete OmeguT používat častěji, budete si určitě chtít upravit pravidla segmentace.</seg>
       </tuv>
     </tu>
     <tu>
