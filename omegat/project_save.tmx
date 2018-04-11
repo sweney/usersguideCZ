@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The text search (find) function</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072815Z" creationid="Turih" creationdate="20180411T072815Z">
+        <seg>Funkce Hledat v textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translating</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065546Z" creationid="Turih" creationdate="20180411T065546Z">
