@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Do not change any other settings, for the purposes of this tutorial.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093429Z" creationid="Vasee" creationdate="20180411T093429Z">
+        <seg>&lt;f0&gt;Jiné nastavení pro účely tohoto tutoriálu měnit nemusíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;Please note that owing to the pace at which OmegaT is being developed, the appearance of the screenshots and possibly some other information may have changed slightly.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T201232Z" creationid="bures" creationdate="20180410T200715Z">
@@ -206,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm the segmentation rules and then creation of the project with OK.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093409Z" creationid="Vasee" creationdate="20180411T093409Z">
+        <seg>Pravidla segmentace a vytvoření projektu potvrdíte stisknutím OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052956Z" creationid="Vasee" creationdate="20180408T052956Z">
@@ -234,6 +250,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T201143Z" creationid="bures" creationdate="20180410T201143Z">
         <seg>Zakládání projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not click on “Browse” or otherwise change the default locations of the project folders (directories).&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;You have now created an empty project.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093525Z" creationid="Vasee" creationdate="20180411T093507Z">
+        <seg>Neklikejte na "Procházet" ani jakkoli jinak neměňte výchozí umístění složek projektu (adresáře).&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;Vytvořili jste nyní prázdný projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -328,8 +352,8 @@
       <tuv lang="EN-US">
         <seg>It is not worth getting bogged down with fine-tuning the segmentation rules at this stage; the basic rules as supplied should work adequately for demonstration purposes, even for a different (source) language, provided its sentence punctuation rules are broadly similar (i.e., don’t use the Japanese segmentation rules if you are translating from Italian).</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092919Z" creationid="Vasee" creationdate="20180411T092919Z">
-        <seg>V tuto chvíli nemá smysl pravidla segmentace upravovat. </seg>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093337Z" creationid="Vasee" creationdate="20180411T092919Z">
+        <seg>V tuto chvíli nemá smysl pravidla segmentace upravovat. Poskytnutá základní pravidla by měla pro účely demonstrace stačit, dokonce i pro jiný (zdrojový) jazyk, pokud je interpunkce podobná (např.: nepoužívejte pravidla segmentace pro japonštinu, pokud překládáte z italštiny).</seg>
       </tuv>
     </tu>
     <tu>
