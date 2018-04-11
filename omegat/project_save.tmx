@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>English to French</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114435Z" creationid="R2D2" creationdate="20180411T114435Z">
+        <seg>angličtina - francouzština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final proofreading, correction, and delivery</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T071723Z" creationid="Turih" creationdate="20180411T070731Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094428Z" creationid="Vasee" creationdate="20180411T094428Z">
         <seg>folders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>russian-miscellaneous</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114213Z" creationid="R2D2" creationdate="20180411T114213Z">
+        <seg>ruština - různé</seg>
       </tuv>
     </tu>
     <tu>
