@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(&lt;f0&gt;Do not use the “Import Source Files” function during this exercise; you can experiment with it later, on your own.)&lt;/f0&gt; You can close this window.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093732Z" creationid="Vasee" creationdate="20180411T093732Z">
+        <seg>(&lt;f0&gt;Během tohoto cvičení nepoužívejte funkci "Kopírování souborů do zdrojového adresáře". S touto funkcí můžete později experimentovat sami na vlastní pěst.)&lt;/f0&gt; Toto okna můžete zavřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>18</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065207Z" creationid="Turih" creationdate="20180411T065207Z">
@@ -294,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Find your project in your file manager: it is a folder with the name of the project, containing the sub-folders &lt;f0&gt;/dictionary,/glossary,/omegat,/source&lt;/f0&gt;, &lt;f1&gt;/target&lt;/f1&gt;, &lt;f2&gt;/omegat&lt;/f2&gt;, &lt;s3/&gt;and &lt;f4&gt;/tm,&lt;/f4&gt; and &lt;f5&gt;/glossary&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093905Z" creationid="Vasee" creationdate="20180411T093905Z">
+        <seg>Najděte svůj projekt v průzkumníku souborů: je to složka se jménem projektu obsahující podsložky &lt;f0&gt;/dictionary,/glossary,/omegat,/source&lt;/f0&gt;, &lt;f1&gt;/target&lt;/f1&gt;, &lt;f2&gt;/omegat&lt;/f2&gt;, &lt;s3/&gt;and &lt;f4&gt;/tm,&lt;/f4&gt; a &lt;f5&gt;/glossary&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Handling tags</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T070206Z" creationid="Turih" creationdate="20180411T070206Z">
@@ -462,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are all empty.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093912Z" creationid="Vasee" creationdate="20180411T093912Z">
+        <seg>Všechny jsou prázdné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translating</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065546Z" creationid="Turih" creationdate="20180411T065546Z">
@@ -490,6 +514,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200916Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
         <seg>Co to jsou CAT nástroje a jak mi mohou pomoct?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will put your document to be translated into the &lt;f6&gt;/source&lt;/f6&gt; folder; the &lt;f7&gt;/target&lt;/f7&gt; folder will be filled with your translated text; the &lt;f8&gt;/omegat&lt;/f8&gt; &lt;s9/&gt;folder need not concern you now; the &lt;f10&gt;/tm&lt;/f10&gt; and &lt;f11&gt;/glossary&lt;/f11&gt; files will remain empty unless and until you create a .tmx file and a glossary and put them into those respective folders; the &lt;f12&gt;/dictionary&lt;/f12&gt; folder is where you can put bilingual dictionaries, if you wish, in the appropriate format (see User’s Manual)..</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094303Z" creationid="Vasee" creationdate="20180411T094303Z">
+        <seg>Dokument, který chcete přeložit vložte do složky &lt;f6&gt;/source&lt;/f6&gt;, do složky &lt;f7&gt;/target&lt;/f7&gt; bude vložen přeložený text, složka &lt;f8&gt;/omegat&lt;/f8&gt; &lt;s9/&gt;vás momentálně nemusí zajímat. Složky &lt;f10&gt;/tm&lt;/f10&gt; a &lt;f11&gt;/glossary&lt;/f11&gt; zůstanou prázdné do té doby, než vytvoříte .tmx soubor a glosář a do těchto složek je nevložíte. Do složky &lt;f12&gt;/dictionary&lt;/f12&gt; můžete vložit své dvojjazyčné slovníky, které musí být ve vhodném formátu (viz. Manuál)..</seg>
       </tuv>
     </tu>
     <tu>
