@@ -750,10 +750,82 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Durdle_Door</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193506Z" creationid="R2D2" creationdate="20180411T193506Z">
+        <seg>en.wikipedia.org/wiki/Durdle_Door</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Great_Western_Hotel,_London&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193514Z" creationid="R2D2" creationdate="20180411T193514Z">
+        <seg>en.wikipedia.org/wiki/Great_Western_Hotel,_London&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Hilton_Hotels&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193513Z" creationid="R2D2" creationdate="20180411T193513Z">
+        <seg>en.wikipedia.org/wiki/Hilton_Hotels&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Hippocrates</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193509Z" creationid="R2D2" creationdate="20180411T193509Z">
+        <seg>en.wikipedia.org/wiki/Hippocrates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en.wikipedia.org/wiki/Individual_medley&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193459Z" creationid="R2D2" creationdate="20180411T193459Z">
         <seg>en.wikipedia.org/wiki/Individual_medley&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Jnana_yoga</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193537Z" creationid="R2D2" creationdate="20180411T193537Z">
+        <seg>en.wikipedia.org/wiki/Jnana_yoga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Jurassic_Coast&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193504Z" creationid="R2D2" creationdate="20180411T193504Z">
+        <seg>en.wikipedia.org/wiki/Jurassic_Coast&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Karma_yoga&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193536Z" creationid="R2D2" creationdate="20180411T193536Z">
+        <seg>en.wikipedia.org/wiki/Karma_yoga&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Old_Harry_Rocks&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193505Z" creationid="R2D2" creationdate="20180411T193505Z">
+        <seg>en.wikipedia.org/wiki/Old_Harry_Rocks&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Panelling</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193520Z" creationid="R2D2" creationdate="20180411T193520Z">
+        <seg>en.wikipedia.org/wiki/Panelling</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +882,30 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193451Z" creationid="R2D2" creationdate="20180411T193451Z">
         <seg>en.wikipedia.org/wiki/Shareholder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/The_London_Hilton_on_Park_Lane</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193517Z" creationid="R2D2" creationdate="20180411T193517Z">
+        <seg>en.wikipedia.org/wiki/The_London_Hilton_on_Park_Lane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Waldorf_Hilton&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193516Z" creationid="R2D2" creationdate="20180411T193516Z">
+        <seg>en.wikipedia.org/wiki/Waldorf_Hilton&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Wall&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193519Z" creationid="R2D2" creationdate="20180411T193519Z">
+        <seg>en.wikipedia.org/wiki/Wall&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
