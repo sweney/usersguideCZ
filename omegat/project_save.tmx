@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The first, to get you started, uses a simple MS Word file in the source language.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094513Z" creationid="Vasee" creationdate="20180411T094513Z">
+        <seg>První pro začátek používá jednoduchý MS Word soubor ve zdrojovém jazyce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The glossary function</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072917Z" creationid="Turih" creationdate="20180411T072433Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093912Z" creationid="Vasee" creationdate="20180411T093912Z">
         <seg>Všechny jsou prázdné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This does not demonstrate OmegaT’s full capabilities, but is intended to help the “newbie” grasp the most essential procedures.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094609Z" creationid="Vasee" creationdate="20180411T094609Z">
+        <seg>Toto cvičení není ukázkou kompletních schopností programu OmegaT, ale slouží k tomu, aby "nováčci" pochopili základní procedury.</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We provide here two projects for self-training.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094447Z" creationid="Vasee" creationdate="20180411T094447Z">
+        <seg>Pro účely procvičení zde máme dva projekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>What is a CAT tool and why are they useful?</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200916Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
@@ -530,6 +554,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T183222Z" creationid="Vasee" creationdate="20180408T052952Z">
         <seg>od Susan Welshové a Marca Priora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>folders</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094428Z" creationid="Vasee" creationdate="20180411T094428Z">
+        <seg>folders</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
