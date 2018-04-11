@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -170,6 +170,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093429Z" creationid="Vasee" creationdate="20180411T093429Z">
         <seg>&lt;f0&gt;Jiné nastavení pro účely tohoto tutoriálu měnit nemusíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Important:&lt;/f0&gt; the purpose of this introduction to OmegaT is to acquaint you with the basic concepts of translation memory software.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T120656Z" creationid="Pan Václav" creationdate="20180411T120656Z">
+        <seg>&lt;f0&gt;Důležité:&lt;/f0&gt;účelem tohoto úvodu do nástroje OmegaT je seznámit vás se základními koncepty softwaru pracujícího s překladovou pamětí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +466,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="SweneyOmegaTpatched" changedate="20180410T111541Z" creationid="SweneyOmegaTpatched" creationdate="20180410T111541Z">
         <seg>Projekt 2: HTML dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>References to OmegaT’s more advanced or obscure functions have deliberately been omitted or kept to a minimum, since a description of them would almost certainly lead to you, as a new user, being unable to see the forest for the trees.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121236Z" creationid="Pan Václav" creationdate="20180411T121236Z">
+        <seg>Odkazy na pokročilejší nebo skryté funkce nástroje byly úmyslně vynechány nebo zmíněny pouze krátce, protože jejich popis by vás, jako nové uživatele, mohl jednoduše zmást a pro stromy byste neviděli les.</seg>
       </tuv>
     </tu>
     <tu>
