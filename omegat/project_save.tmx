@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -783,6 +783,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set it up just as you did with &lt;f1&gt;My Project-1&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100416Z" creationid="Marie" creationdate="20180412T100416Z">
+        <seg>Nastavte jej tak jako jste nastavili &lt;f1&gt;Můj Projekt-1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TERMINATION</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Štefan" changedate="20180412T094852Z" creationid="Štefan" creationdate="20180412T094852Z">
@@ -867,6 +875,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072917Z" creationid="Turih" creationdate="20180411T072433Z">
         <seg>Funkce „Glosář“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The procedures described in Project 1, Steps &lt;f2&gt;6.A.1-6.A.4,&lt;/f2&gt; all apply here too, for HTML files.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100546Z" creationid="Marie" creationdate="20180412T100546Z">
+        <seg>Postupy popsané v Projektu 1, kroky &lt;f2&gt;6.A.1-6.A.4,&lt;/f2&gt; platí i zde pro soubory HTML.</seg>
       </tuv>
     </tu>
     <tu>
