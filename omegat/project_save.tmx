@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -535,6 +535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the client requires MS Office format, simply save the target file in OpenOffice.org in the relevant MS format (.doc, etc.)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100209Z" creationid="Marie" creationdate="20180412T100037Z">
+        <seg>Pokud klient vyžaduje formát MS Office, jednoduše uložte cílový dokument v OpenOffice.org v náležitém formátu MS (.doc, atd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the language of your source text isn’t listed, pick a language that is, double-click on the Language Name field, and change it to the abbreviation for your language.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092549Z" creationid="Vasee" creationdate="20180408T052546Z">
@@ -635,6 +643,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095303Z" creationid="Pan Václav" creationdate="20180411T122521Z">
         <seg>Spusťte OmegaT a klikněte na Projekt &gt; Otevřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launch OmegaT and create a new project.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100255Z" creationid="Marie" creationdate="20180412T100255Z">
+        <seg>Spusťte program OmegaT a vytvořte nový projekt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -955,6 +971,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200916Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
         <seg>Co to jsou CAT nástroje a jak mi mohou pomoct?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are now ready to deliver the job.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100111Z" creationid="Marie" creationdate="20180412T100031Z">
+        <seg>Teď jste připraveni dodat svou práci.</seg>
       </tuv>
     </tu>
     <tu>
