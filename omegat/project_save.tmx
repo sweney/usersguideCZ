@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -242,6 +242,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195825Z" creationid="Pan Václav" creationdate="20180409T052852Z">
         <seg>Kopie této licence se nachází v sekci "GNU Free Documentation License"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A segment normally corresponds to one sentence.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095826Z" creationid="ivaparakova" creationdate="20180412T095826Z">
+        <seg>Jeden segment obvykle odpovídá jedné větě.</seg>
       </tuv>
     </tu>
     <tu>
@@ -647,6 +655,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT is an “inline” translation memory application, meaning that you see only one copy of the text; segments which have already been translated appear as such, otherwise the untranslated source text is displayed.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100018Z" creationid="ivaparakova" creationdate="20180412T095934Z">
+        <seg>OmegaT je „inline“ překladová pamětová aplikace, což znamená, že uvidíte pouze jednu kopii textu. Segmenty, které již byly přeloženy si samozřejmě můžete zobrazit, ale jinak se vám zobrazuje nepřeložený zdrojový text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Owing to the pace at which OmegaT is being developed, the appearance of the screenshots and possibly some other information may have changed slightly.) &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095751Z" creationid="ivaparakova" creationdate="20180412T095732Z">
+        <seg>Vzhledem k rychlosti, jakou je OmegaT vyvíjen se může vzhled screenshotu lišit a některé další vlastnosti mohou být jiné.) &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195702Z" creationid="Vasee" creationdate="20180409T051007Z">
@@ -783,6 +807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The basic idea is that the text is presented to you one segment at a time.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095811Z" creationid="ivaparakova" creationdate="20180412T095811Z">
+        <seg>Základní myšlenkou je, že text překládáte segment po segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first, to get you started, uses a simple MS Word file in the source language.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094741Z" creationid="Vasee" creationdate="20180411T094513Z">
@@ -907,6 +939,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200916Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
         <seg>Co to jsou CAT nástroje a jak mi mohou pomoct?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You type your translation into the field provided, confirm by hitting Enter, and so on.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095856Z" creationid="ivaparakova" creationdate="20180412T095856Z">
+        <seg>Napište váš překlad do příslušného pole, potvrďte stisknutím klávesy Enter a tak pokračujte dále.</seg>
       </tuv>
     </tu>
     <tu>
