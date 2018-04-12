@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -474,6 +474,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092846Z" creationid="Vasee" creationdate="20180411T092846Z">
         <seg>Pokud budete OmeguT používat častěji, budete si určitě chtít upravit pravidla segmentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your project contains more than one file for translation, confirming the last segment in the first file will take you to the topmost segment in the second file.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T095042Z" creationid="Patrik" creationdate="20180412T095042Z">
+        <seg>Pokud váš projekt obsahuje více než jeden soubor k přeložení, potvrzení posledního segmentu prvního souboru vás automaticky nasměruje na první segment následujícího souboru.</seg>
       </tuv>
     </tu>
     <tu>
