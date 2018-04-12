@@ -222,6 +222,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>AGGREGATION WITH INDEPENDENT WORKS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094806Z" creationid="Uživatel" creationdate="20180412T094806Z">
+        <seg>AGREGÁTY S NEZÁVISLÝMI DÍLY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>APPLICABILITY AND DEFINITIONS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094649Z" creationid="Uživatel" creationdate="20180412T094649Z">
+        <seg>PLATNOST A DEFINICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appendix</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T073157Z" creationid="Turih" creationdate="20180411T073157Z">
@@ -242,6 +258,30 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052940Z" creationid="Vasee" creationdate="20180408T052940Z">
         <seg>CAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COLLECTIONS OF DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094741Z" creationid="Uživatel" creationdate="20180412T094741Z">
+        <seg>KOLEKCE DOKUMENTŮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMBINING DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094730Z" creationid="Uživatel" creationdate="20180412T094730Z">
+        <seg>SLUČOVÁNÍ DOKUMENTŮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COPYING IN QUANTITY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094712Z" creationid="Uživatel" creationdate="20180412T094712Z">
+        <seg>HROMADNÉ KOPÍROVÁNÍ</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MODIFICATIONS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094717Z" creationid="Uživatel" creationdate="20180412T094717Z">
+        <seg>ÚPRAVY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigate to &lt;f0&gt;My Project-1 &lt;/f0&gt;(it will have the OmegaT icon beside it).</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122559Z" creationid="Pan Václav" creationdate="20180411T122559Z">
@@ -514,6 +562,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195702Z" creationid="Vasee" creationdate="20180409T051007Z">
         <seg>Tento dokument můžete kopírovat, šířit nebo upravovat na základě ustanovení GNU Free Documentation License, verze 1.2 nebo jakékoliv později vydané nadací Free Software Foundation. TODO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preamble</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094622Z" creationid="Uživatel" creationdate="20180412T094622Z">
+        <seg>Předmluva</seg>
       </tuv>
     </tu>
     <tu>
@@ -570,6 +626,22 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122302Z" creationid="Pan Václav" creationdate="20180411T122302Z">
         <seg>Až budete připraveni na pokročilejší funkce, obraťte se na manuál). Soubor &gt; Uložit jako, jméno souboru a uložte ve formátu .odt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TERMINATION</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180412T094852Z" creationid="Štefan" creationdate="20180412T094852Z">
+        <seg>UKONČENÍ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRANSLATION</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180412T094843Z" creationid="Štefan" creationdate="20180412T094843Z">
+        <seg>PŘEKLAD</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,6 +762,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180412T093916Z" creationid="Turih" creationdate="20180411T072325Z">
         <seg>Překladová paměť (funkce „Přibližné překlady“)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VERBATIM COPYING</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094659Z" creationid="Uživatel" creationdate="20180412T094659Z">
+        <seg>KOPÍROVÁNÍ SLOVO OD SLOVA</seg>
       </tuv>
     </tu>
     <tu>
