@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>(For the purposes of this tutorial, you may use .docx files according to this procedure, although in fact .docx files do not require the mediation of Open Office Writer.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122320Z" creationid="Pan Václav" creationdate="20180411T122026Z">
-        <seg>(Pro účely tohoto tutoriálu můžete použít .docx soubory vytvořené podle zmíněné procedury, soubory .docx nevyžadují použití programu Open Office Writer.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095028Z" creationid="Pan Václav" creationdate="20180411T122026Z">
+        <seg>(Pro naučení se s programem můžete použít soubory .docx a postupovat podle následujících kroků, i když pro soubory .docx není nutné používat Open Office Writer.</seg>
       </tuv>
     </tu>
     <tu>
