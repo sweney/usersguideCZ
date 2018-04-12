@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -186,6 +186,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093429Z" creationid="Vasee" creationdate="20180411T093429Z">
         <seg>&lt;f0&gt;Jiné nastavení pro účely tohoto tutoriálu měnit nemusíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Don’t, however, make corrections in the Open Office Writer or MS Word file:&lt;/f0&gt; find the relevant segments in OmegaT (using the text search function, to be discussed below, Step &lt;f1&gt;6.B.4&lt;/f1&gt;) and make them there.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095934Z" creationid="Marie" creationdate="20180412T095934Z">
+        <seg>&lt;f0&gt;Nicméně nedělejte opravy v souboru Open Office Writer nebo MS Word:&lt;/f0&gt; najděte náležité segmenty v OmegaT (za použití funkce hledání v textu, jak je zmíněno níže, viz Krok&lt;f1&gt;6.B.4&lt;/f1&gt;) a zde je vytvořte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -471,6 +479,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Final checking, correction, and delivery</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095637Z" creationid="Marie" creationdate="20180412T095637Z">
+        <seg>Závěrečná kontrola, oprava a dodání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final proofreading, correction, and delivery</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T071723Z" creationid="Turih" creationdate="20180411T070731Z">
@@ -499,6 +515,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092549Z" creationid="Vasee" creationdate="20180408T052546Z">
         <seg>Pokud jazyk vašeho zdrojového textu není na seznamu, vyberte jazyk, který na něm je a dvakrát klikněte na pole s názvem jazyka a změňte ho na zkratku vašeho jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you prefer to check your translation on paper, print out the target document.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095731Z" creationid="Marie" creationdate="20180412T095731Z">
+        <seg>Pokud chcete raději opravit svůj překlad na papíře, vytiskněte cílový dokument.</seg>
       </tuv>
     </tu>
     <tu>
