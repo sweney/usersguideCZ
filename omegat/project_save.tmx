@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="EN-US">
         <seg>Click and drag the newly created .odt file to the &lt;f0&gt;/source&lt;/f0&gt; folder of your &lt;f1&gt;My Project-1&lt;/f1&gt; folder, which you created in Step &lt;f2&gt;5&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122428Z" creationid="Pan Václav" creationdate="20180411T122428Z">
-        <seg>Klikněte a přesuňte nově vytvořený .odt soubor do složky &lt;f0&gt;/source&lt;/f0&gt; vaší složky &lt;f1&gt;Muj Projekt-1&lt;/f1&gt;, který jste vytvořili v kroku číslo &lt;f2&gt;5&lt;/f2&gt;.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095234Z" creationid="Pan Václav" creationdate="20180411T122428Z">
+        <seg>Klikněte a přetáhněte nově vytvořený .odt soubor do zdrojové složky Můj projekt-1, kterou jste vytvořili v kroku 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,8 +552,8 @@
       <tuv lang="EN-US">
         <seg>Launch OmegaT and click Project &gt; Open.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122521Z" creationid="Pan Václav" creationdate="20180411T122521Z">
-        <seg>Otevřete OmeguT a klikněte na Projekt &gt; Otevřít.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095303Z" creationid="Pan Václav" creationdate="20180411T122521Z">
+        <seg>Spusťte OmegaT a klikněte na Projekt &gt; Otevřít.</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="EN-US">
         <seg>Navigate to &lt;f0&gt;My Project-1 &lt;/f0&gt;(it will have the OmegaT icon beside it).</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122559Z" creationid="Pan Václav" creationdate="20180411T122559Z">
-        <seg>Vyhledejte &lt;f0&gt;Muj Projekt-1 &lt;/f0&gt;(tato složka bude mít OmegaT ikonu).</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095423Z" creationid="Pan Václav" creationdate="20180411T122559Z">
+        <seg>Přejděte na &lt;f0&gt;Můj projekt-1&lt;/f0&gt;(bude mít vedle sebe ikonu OmegaT).</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>See User‘s Manual when you are ready for the fine points.)File &gt; Save As, name the file, and close it in .odt format.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122302Z" creationid="Pan Václav" creationdate="20180411T122302Z">
-        <seg>Až budete připraveni na pokročilejší funkce, obraťte se na manuál). Soubor &gt; Uložit jako, jméno souboru a uložte ve formátu .odt.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095153Z" creationid="Pan Václav" creationdate="20180411T122302Z">
+        <seg>Pro více detailů se podívejte do uživatelské příručky.) Soubor &gt; Uložit jako, zadejte název souboru a uložte jej ve formátu .odt.</seg>
       </tuv>
     </tu>
     <tu>
