@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;f1&gt;(Note that this screenshot refers to OmegaT 1.6.0 in the blue bar at the top.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095715Z" creationid="ivaparakova" creationdate="20180412T095715Z">
+        <seg>&lt;f1&gt;(Všimněte si, že tento obrázek ukazuje v modré liště nahoře OmegaT 1.6.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f2&gt;Please note that owing to the pace at which OmegaT is being developed, the appearance of the screenshots and possibly some other information may have changed slightly.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T201232Z" creationid="bures" creationdate="20180410T200715Z">
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Close the dialog box.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095612Z" creationid="ivaparakova" creationdate="20180412T095612Z">
+        <seg>Zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confirm the segmentation rules and then creation of the project with OK.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093409Z" creationid="Vasee" creationdate="20180411T093409Z">
@@ -384,8 +400,8 @@
       <tuv lang="EN-US">
         <seg>Double-click on the file.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T122606Z" creationid="Vasee" creationdate="20180411T095411Z">
-        <seg>Na složku dvakrát klikněte.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095448Z" creationid="Vasee" creationdate="20180411T095411Z">
+        <seg>Dvakrát na soubor klikněte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Project Files dialog will display your source document.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095600Z" creationid="ivaparakova" creationdate="20180412T095600Z">
+        <seg>Dialogové okno vám zobrazí zdrojový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Project Files window is displayed, which is empty since your project does not yet contain any files.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093559Z" creationid="Vasee" creationdate="20180411T093559Z">
@@ -858,6 +882,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094303Z" creationid="Vasee" creationdate="20180411T094303Z">
         <seg>Dokument, který chcete přeložit vložte do složky &lt;f6&gt;/source&lt;/f6&gt;, do složky &lt;f7&gt;/target&lt;/f7&gt; bude vložen přeložený text, složka &lt;f8&gt;/omegat&lt;/f8&gt; &lt;s9/&gt;vás momentálně nemusí zajímat. Složky &lt;f10&gt;/tm&lt;/f10&gt; a &lt;f11&gt;/glossary&lt;/f11&gt; zůstanou prázdné do té doby, než vytvoříte .tmx soubor a glosář a do těchto složek je nevložíte. Do složky &lt;f12&gt;/dictionary&lt;/f12&gt; můžete vložit své dvojjazyčné slovníky, které musí být ve vhodném formátu (viz. Manuál)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your translation file is now displayed in the Editing pane, and you can begin translating.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095633Z" creationid="ivaparakova" creationdate="20180412T095633Z">
+        <seg>Překladový soubor je nyní zobrazen v podokně Úpravy a můžete začít překládat.</seg>
       </tuv>
     </tu>
     <tu>
