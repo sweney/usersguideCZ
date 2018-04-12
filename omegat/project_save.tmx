@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -426,6 +426,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114935Z" creationid="R2D2" creationdate="20180411T114935Z">
         <seg>angličtina - italština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FUTURE REVISIONS OF THIS LICENSE</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180412T094901Z" creationid="Štefan" creationdate="20180412T094901Z">
+        <seg>BUDOUCÍ ÚPRAVY TÉTO LICENCE</seg>
       </tuv>
     </tu>
     <tu>
