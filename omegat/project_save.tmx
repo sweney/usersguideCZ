@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -266,6 +266,22 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094649Z" creationid="Uživatel" creationdate="20180412T094649Z">
         <seg>PLATNOST A DEFINICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After revising the text and making any corrections, create the translated &lt;t0/&gt;documents again and close the project.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T100040Z" creationid="Patrik" creationdate="20180412T100040Z">
+        <seg>Poté co zkontrolujete text a provedete opravy, vytvořte přeložené &lt;t0/&gt;dokumenty znovu a ukončete projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After you have checked and saved ing your translation, newer versions of OmegaT will check automatically that you have not damaged any tags during the translation process, or you can do it manually yourself: Tools &gt; Validate Tags.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T095821Z" creationid="Patrik" creationdate="20180412T095821Z">
+        <seg>Poté co zkontrolujete a uložíte Váš překlad, novější verze OmegaT automaticky ověří, jestli jste během překládání nepoškodily tagy, také to můžete udělat ručně: Nástroje&gt; Ověřit tagy.</seg>
       </tuv>
     </tu>
     <tu>
