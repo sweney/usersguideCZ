@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -200,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f0&gt;Note: Damaged or missing tags in XML file formats, such as OpenOffice.org, are likely to result in the output file failing to open at all.&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T094818Z" creationid="Marie" creationdate="20180412T094818Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;</seg>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095118Z" creationid="Marie" creationdate="20180412T094818Z">
+        <seg>&lt;f0&gt;Poznámka: Poškozené nebo chybějící tagy ve formátech XML, jako OpenOffice.org, pravděpodobně nepůjdou ve výstupním souboru vůbec otevřít.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +346,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200027Z" creationid="Vasee" creationdate="20180409T052910Z">
         <seg>Kresba na obale pochází z &lt;a0&gt;www.freeclipartnow.com&lt;/a0&gt; a je volným dílem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create the target documents by selecting Project &gt; Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095250Z" creationid="Marie" creationdate="20180412T095250Z">
+        <seg>Cílové dokumenty vytvoříte vybráním Projekt &gt; Vytvořit přeložené dokumenty. </seg>
       </tuv>
     </tu>
     <tu>
@@ -730,6 +738,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072912Z" creationid="Turih" creationdate="20180411T072815Z">
         <seg>Funkce „Hledat v textu“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The translated documents are automatically generated in their original format in the &lt;f0&gt;/target &lt;/f0&gt;folder.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095321Z" creationid="Marie" creationdate="20180412T095321Z">
+        <seg>Přeložené dokumenty jsou automaticky vygenerovány v jejich původním formátu ve složce &lt;t</seg>
       </tuv>
     </tu>
     <tu>
