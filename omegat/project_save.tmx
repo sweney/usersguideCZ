@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -250,6 +250,15 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094649Z" creationid="Uživatel" creationdate="20180412T094649Z">
         <seg>PLATNOST A DEFINICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An advantage probably common to all translation memory applications is that they simplify checking: once you have completed the first draft of your translation, you can “walk” through it with the source and target versions of each sentence displayed next to each other.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T095651Z" creationid="Patrik" creationdate="20180412T095651Z">
+        <seg>Výhodou takřka všech překladových pamětí je, že usnadňují kontrolu překladu: Po dokončení hrubého překladu si jej můžete projít s původními i přeloženými segmenty, které budou zobrazeny vedle sebe.
+</seg>
       </tuv>
     </tu>
     <tu>
