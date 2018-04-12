@@ -607,6 +607,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, &lt;a0&gt; and &lt;/a0&gt; are the opening and closing tags for bold text respectively.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100724Z" creationid="ivaparakova" creationdate="20180412T100724Z">
+        <seg>V tomto případě jsou značky &lt;a0&gt; a &lt;/a0&gt; pro tučný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200941Z" creationid="bures" creationdate="20180410T200941Z">
@@ -743,6 +751,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Only by looking at the source text can you ascertain the actual function of the tags in a particular case.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100812Z" creationid="ivaparakova" creationdate="20180412T100812Z">
+        <seg>Pouze při otevření dokumentu se zdrojovým textem můžete zjistit skutečné funkce značek v konkrétním případě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Only in the case of the “active” segment, which is highlighted, are both source text and translation displayed.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100045Z" creationid="ivaparakova" creationdate="20180412T100045Z">
@@ -811,6 +827,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100627Z" creationid="ivaparakova" creationdate="20180412T100627Z">
         <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schau dir &lt;f0&gt;das&lt;/f0&gt; an!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100701Z" creationid="ivaparakova" creationdate="20180412T100701Z">
+        <seg>Look at &lt;f0&gt;that&lt;/f0&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1371,6 +1395,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T115005Z" creationid="R2D2" creationdate="20180411T115005Z">
         <seg>jóga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“&lt;a0&gt;“ and “&lt;/a0&gt;“ do not necessarily indicate the beginning and end of bold text, however; if the word “that” were in italics in the source text rather than bold, the tags would be the same.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100757Z" creationid="ivaparakova" creationdate="20180412T100757Z">
+        <seg>„&lt;a0&gt;“ a „&lt;/a0&gt;“ nemusí ovšem vždy znamenat začátek a konec tučného textu. Kdyby slovo „to“ bylo ve zdrojovém textu kurzívou, nikoli tučné, byly by použity stejné značky.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
