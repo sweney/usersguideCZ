@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -479,6 +479,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>English to Chinese</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101315Z" creationid="Patrik" creationdate="20180412T101315Z">
+        <seg>Překlad z angličriny do čínštiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English to Czech</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101246Z" creationid="Patrik" creationdate="20180412T101246Z">
+        <seg>Překlad z angličtiny do češtiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>English to Dutch</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114021Z" creationid="R2D2" creationdate="20180411T114001Z">
@@ -895,6 +911,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101136Z" creationid="Patrik" creationdate="20180412T101136Z">
+        <seg>Zdroj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101106Z" creationid="Patrik" creationdate="20180412T101106Z">
+        <seg>Subjekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TERMINATION</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Štefan" changedate="20180412T094852Z" creationid="Štefan" creationdate="20180412T094852Z">
@@ -1179,6 +1211,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100542Z" creationid="ivaparakova" creationdate="20180412T100542Z">
         <seg>a do angličtiny přeložíte v OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>biocoenosis</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101343Z" creationid="Patrik" creationdate="20180412T101343Z">
+        <seg>Společenstvo</seg>
       </tuv>
     </tu>
     <tu>
