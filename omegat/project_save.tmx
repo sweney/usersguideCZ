@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All files selected for translation in this tutorial are from Wikipedia; some projects comprise more than one file, to familiarize you with OmegaT’s usefulness for such structured documents.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T100912Z" creationid="Patrik" creationdate="20180412T100912Z">
+        <seg>Všechny soubory použité k překladům v tomto tutorialu jsou z Wikipedie; některé projekty sestávají z více než jednoho souboru,abyste si mohli vyzkoušet použitelnost OmegaT pro takto strukturované dokumenty .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An advantage probably common to all translation memory applications is that they simplify checking: once you have completed the first draft of your translation, you can “walk” through it with the source and target versions of each sentence displayed next to each other.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T095651Z" creationid="Patrik" creationdate="20180412T095651Z">
@@ -663,6 +671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Language &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101021Z" creationid="Patrik" creationdate="20180412T101021Z">
+        <seg>Jazyk &lt;br0/&gt;&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Last updated&lt;f0&gt;: &lt;s1/&gt;March &lt;/f0&gt;2014&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200253Z" creationid="Pan Václav" creationdate="20180409T053101Z">
@@ -975,6 +991,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The table provides a summary of web pages available, for which our tutorial’s “legacy” files have been constructed:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T100945Z" creationid="Patrik" creationdate="20180412T100945Z">
+        <seg>Tabulka poskytuje přehled webových stránek, pro které jsou určeny naše "legacy" soubory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The text search (find) function</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072912Z" creationid="Turih" creationdate="20180411T072815Z">
@@ -1147,6 +1171,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T183222Z" creationid="Vasee" creationdate="20180408T052952Z">
         <seg>od Susan Welshové a Marca Priora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combination</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101050Z" creationid="Patrik" creationdate="20180412T101050Z">
+        <seg>kombinace</seg>
       </tuv>
     </tu>
     <tu>
