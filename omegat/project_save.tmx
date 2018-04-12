@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -311,6 +311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By default, the source text is pasted into the target text segment for you.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100104Z" creationid="ivaparakova" creationdate="20180412T100104Z">
+        <seg>Ve výchozím nastavení je zdrojový text vložen do segmentu pro cílový text za vás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAT</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052940Z" creationid="Vasee" creationdate="20180408T052940Z">
@@ -527,10 +535,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, this text in English:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100430Z" creationid="ivaparakova" creationdate="20180412T100430Z">
+        <seg>Například tento text v češtině:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Handling tags</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T070206Z" creationid="Turih" creationdate="20180411T070206Z">
-        <seg>Manipulace s tagy</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100308Z" creationid="Turih" creationdate="20180411T070206Z">
+        <seg>Práce s tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handling tags takes some practice.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100346Z" creationid="ivaparakova" creationdate="20180412T100346Z">
+        <seg>Zvládnout práci s tagy chvíli trvá. </seg>
       </tuv>
     </tu>
     <tu>
@@ -671,6 +695,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100530Z" creationid="ivaparakova" creationdate="20180412T100530Z">
+        <seg>Podívej se na&lt;a0&gt;to&lt;/a0&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look at &lt;f0&gt;that&lt;/f0&gt;!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100447Z" creationid="ivaparakova" creationdate="20180412T100447Z">
+        <seg>Podívej se na &lt;f0&gt;to&lt;/f0&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MODIFICATIONS</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094717Z" creationid="Uživatel" creationdate="20180412T094717Z">
@@ -699,6 +739,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100018Z" creationid="ivaparakova" creationdate="20180412T095934Z">
         <seg>OmegaT je „inline“ překladová pamětová aplikace, což znamená, že uvidíte pouze jednu kopii textu. Segmenty, které již byly přeloženy si samozřejmě můžete zobrazit, ale jinak se vám zobrazuje nepřeložený zdrojový text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only in the case of the “active” segment, which is highlighted, are both source text and translation displayed.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100045Z" creationid="ivaparakova" creationdate="20180412T100045Z">
+        <seg>Pouze v případě „aktivního“ segmentu, který je zvýrazněn, se vám zobrazuje zdrojový text i překlad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -755,6 +803,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200328Z" creationid="Vasee" creationdate="20180409T053211Z">
         <seg>Týká se OmegaT verze 3.0.8_2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schau dir &lt;a0&gt;das&lt;/a0&gt; an!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100627Z" creationid="ivaparakova" creationdate="20180412T100627Z">
+        <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
       </tuv>
     </tu>
     <tu>
@@ -871,6 +927,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The general principle is that you translate the text between tags and leave the tags untouched.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100410Z" creationid="ivaparakova" creationdate="20180412T100410Z">
+        <seg>Základním pravidlem je překládat text mezi tagy a nijak je neměnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The glossary function</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072917Z" creationid="Turih" creationdate="20180411T072433Z">
@@ -943,6 +1007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is convenient with heavily tagged (formatted) text, since it is easier to retain the tags undamaged by simply replacing the text between them.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100146Z" creationid="ivaparakova" creationdate="20180412T100146Z">
+        <seg>To je užitečné, pokud máte hodně naformátovaný text. Je snazší zachovat značky a jednoduše nahradit text mezi nimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Translating</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065546Z" creationid="Turih" creationdate="20180411T065546Z">
@@ -999,6 +1071,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With less heavily tagged text, you can delete the content of the target text field and simply type in the translation, or you can instruct OmegaT to leave it blank by default (refer to the User’s Manual for details).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100223Z" creationid="ivaparakova" creationdate="20180412T100223Z">
+        <seg>U méně naformátovaného textu můžete odstranit celý obsah cílového textového pole a jednoduše napsat váš překlad, nebo si můžete ve výchozím nastavení programu OmegaT nastavit, aby nechával toto pole volné (podrobnosti naleznete v uživatelské příručce).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You are now ready to deliver the job.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100111Z" creationid="Marie" creationdate="20180412T100031Z">
@@ -1027,6 +1107,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095633Z" creationid="ivaparakova" creationdate="20180412T095633Z">
         <seg>Překladový soubor je nyní zobrazen v podokně Úpravy a můžete začít překládat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and be translated like this in OmegaT into German:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100542Z" creationid="ivaparakova" creationdate="20180412T100542Z">
+        <seg>a do angličtiny přeložíte v OmegaT:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1239,6 +1327,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>might appear like this in OmegaT:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100500Z" creationid="ivaparakova" creationdate="20180412T100500Z">
+        <seg>může vypadat v OmegaT takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>russian-miscellaneous</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114213Z" creationid="R2D2" creationdate="20180411T114213Z">
@@ -1259,6 +1355,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114440Z" creationid="R2D2" creationdate="20180411T114440Z">
         <seg>plavání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which then appears like this in the final text:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100643Z" creationid="ivaparakova" creationdate="20180412T100643Z">
+        <seg>což se v cílovém textu zobrazí:</seg>
       </tuv>
     </tu>
     <tu>
