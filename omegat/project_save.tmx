@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If your project consists of multiple source files, possibly in multiple sub-folders and with accompanying graphics files, etc., as is the case with the examples in our second, HTML, project, the entire structure of the files in &lt;f1&gt;/source&lt;/f1&gt; is reproduced in &lt;f2&gt;/target&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095605Z" creationid="Marie" creationdate="20180412T095605Z">
+        <seg>Pokud projekt obsahuje několik zdrojových souborů, případně v několika podadresářích spolu s grafickými soubory, atd., jak tomu bylo v příkladu našeho druhého HTML projektu, celá struktura souborů v adresáři &lt;f1&gt;/source&lt;/f1&gt; se zkopíruje do adresáře &lt;f2&gt;/target&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If your project contains more than one file for translation, confirming the last segment in the first file will take you to the topmost segment in the second file.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T095042Z" creationid="Patrik" creationdate="20180412T095042Z">
@@ -744,8 +752,8 @@
       <tuv lang="EN-US">
         <seg>The translated documents are automatically generated in their original format in the &lt;f0&gt;/target &lt;/f0&gt;folder.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095321Z" creationid="Marie" creationdate="20180412T095321Z">
-        <seg>Přeložené dokumenty jsou automaticky vygenerovány v jejich původním formátu ve složce &lt;t</seg>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095615Z" creationid="Marie" creationdate="20180412T095321Z">
+        <seg>Přeložené dokumenty jsou automaticky vygenerovány v jejich původním formátu ve složce &lt;f0&gt;/target &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
