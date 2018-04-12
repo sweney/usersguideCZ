@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_9_r10309" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -559,6 +559,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For details of the tag handling rules, refer to the User’s Manual.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101454Z" creationid="ivaparakova" creationdate="20180412T101454Z">
+        <seg>Podrobnosti o práci se značkami naleznete v uživatelské příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, this text in English:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100430Z" creationid="ivaparakova" creationdate="20180412T100430Z">
@@ -633,8 +641,8 @@
       <tuv lang="EN-US">
         <seg>In this case, &lt;a0&gt; and &lt;/a0&gt; are the opening and closing tags for bold text respectively.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100724Z" creationid="ivaparakova" creationdate="20180412T100724Z">
-        <seg>V tomto případě jsou značky &lt;a0&gt; a &lt;/a0&gt; pro tučný text.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101254Z" creationid="ivaparakova" creationdate="20180412T100724Z">
+        <seg>V tomto případě jsou tagy &lt;a0&gt; a &lt;/a0&gt; pro tučný text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -767,6 +775,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT does allow you to delete tags and to change their order, but only if certain rules are carefully followed.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101425Z" creationid="ivaparakova" creationdate="20180412T101425Z">
+        <seg>OmegaT umožňuje odstranit tagy a změnit jejich pořadí, ale pouze tehdy, pokud pečlivě dodržuje určitá pravidla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT for</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052938Z" creationid="Vasee" creationdate="20180408T052938Z">
@@ -785,16 +801,16 @@
       <tuv lang="EN-US">
         <seg>One solution to this problem is Codezapper (&lt;a2&gt;http://asap-traduction.com/CodeZapper&lt;/a2&gt;), which can eliminate these, while keeping the tags you actually need; or you can use the Remove Tags feature of OmegaT itself to remove &lt;f3&gt;all&lt;/f3&gt; tags.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101143Z" creationid="ivaparakova" creationdate="20180412T101035Z">
-        <seg>Jedním z řešení tohoto problému je Codezapper (&lt;a2&gt;http://asap-traduction.com/CodeZapper&lt;/a2&gt;), který eliminuje zbytečné značky a zachová ty, které skutečně potřebujete. Nebo můžete použít funkci Odstranit značky v OmegaT, a odebrat tak všechny značky.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101344Z" creationid="ivaparakova" creationdate="20180412T101035Z">
+        <seg>Jedním z řešení tohoto problému je Codezapper (&lt;a2&gt;http://asap-traduction.com/CodeZapper&lt;/a2&gt;), který eliminuje zbytečné tagy a zachová ty, které skutečně potřebujete. Nebo můžete použít funkci Odstranit tagy v OmegaT, a odebrat tak všechny tagy.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Only by looking at the source text can you ascertain the actual function of the tags in a particular case.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100812Z" creationid="ivaparakova" creationdate="20180412T100812Z">
-        <seg>Pouze při otevření dokumentu se zdrojovým textem můžete zjistit skutečné funkce značek v konkrétním případě.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101316Z" creationid="ivaparakova" creationdate="20180412T100812Z">
+        <seg>Pouze při otevření dokumentu se zdrojovým textem můžete zjistit skutečné funkce tagů v konkrétním případě.</seg>
       </tuv>
     </tu>
     <tu>
@@ -803,6 +819,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100045Z" creationid="ivaparakova" creationdate="20180412T100045Z">
         <seg>Pouze v případě „aktivního“ segmentu, který je zvýrazněn, se vám zobrazuje zdrojový text i překlad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise, you may risk corrupting your final document and preventing it from being opened.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101441Z" creationid="ivaparakova" creationdate="20180412T101441Z">
+        <seg>V opačném případě riskujete, že si poškodíte konečný dokument a nepůjde otevřít.</seg>
       </tuv>
     </tu>
     <tu>
@@ -899,6 +923,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095153Z" creationid="Pan Václav" creationdate="20180411T122302Z">
         <seg>Pro více detailů se podívejte do uživatelské příručky.) Soubor &gt; Uložit jako, zadejte název souboru a uložte jej ve formátu .odt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the User’s Manual (F1).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101208Z" creationid="ivaparakova" creationdate="20180412T101208Z">
+        <seg>Viz uživatelská příručka (F1).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1001,8 +1033,8 @@
       <tuv lang="EN-US">
         <seg>The current Microsoft &lt;f0&gt;&lt;f1&gt;Office file formats (.docx, .xlsx, .pptx) &lt;/f1&gt;&lt;/f0&gt;can generate a large number of unnecessary tags, making translation cumbersome.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100940Z" creationid="ivaparakova" creationdate="20180412T100940Z">
-        <seg>Současné formáty souborů Microsoft Office (.docx, .xlsx, .pptx) můžou generovat velké množství zbytečných značek a překlad bude nepřehledný. </seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101325Z" creationid="ivaparakova" creationdate="20180412T100940Z">
+        <seg>Současné formáty souborů Microsoft Office (.docx, .xlsx, .pptx) můžou generovat velké množství zbytečných tagů a překlad bude nepřehledný. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1123,6 +1155,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180412T093916Z" creationid="Turih" creationdate="20180411T072325Z">
         <seg>Překladová paměť (funkce „Přibližné překlady“)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until you are familiar with tag handling, it is best to retain all the tags and to keep them in the same order if at all possible.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101359Z" creationid="ivaparakova" creationdate="20180412T101235Z">
+        <seg>Dokud opravdu neumíte s tagy pracovat, je-li to možné, zachovejte je všechny a nejlépe ve stejném pořadí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1489,8 +1529,8 @@
       <tuv lang="EN-US">
         <seg>“&lt;a0&gt;“ and “&lt;/a0&gt;“ do not necessarily indicate the beginning and end of bold text, however; if the word “that” were in italics in the source text rather than bold, the tags would be the same.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100757Z" creationid="ivaparakova" creationdate="20180412T100757Z">
-        <seg>„&lt;a0&gt;“ a „&lt;/a0&gt;“ nemusí ovšem vždy znamenat začátek a konec tučného textu. Kdyby slovo „to“ bylo ve zdrojovém textu kurzívou, nikoli tučné, byly by použity stejné značky.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101307Z" creationid="ivaparakova" creationdate="20180412T100757Z">
+        <seg>„&lt;a0&gt;“ a „&lt;/a0&gt;“ nemusí ovšem vždy znamenat začátek a konec tučného textu. Kdyby slovo „to“ bylo ve zdrojovém textu kurzívou, nikoli tučné, byly by použity stejné tagy.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
