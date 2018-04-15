@@ -839,6 +839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Of course, you must be connected to the Internet for this function to work.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T102028Z" creationid="Marie" creationdate="20180415T102028Z">
+        <seg>Samozřejmě musíte být připojeni k Internetu aby tato funkce fungovala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT does allow you to delete tags and to change their order, but only if certain rules are carefully followed.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101425Z" creationid="ivaparakova" creationdate="20180412T101425Z">
