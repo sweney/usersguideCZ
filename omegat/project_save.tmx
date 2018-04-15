@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;s14/&gt;You will see that the dictionary or dictionaries appear listed in the “spellchecker setup” dialog window &lt;f15&gt;c)&lt;/f15&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T103951Z" creationid="Marie" creationdate="20180415T103951Z">
+        <seg>&lt;s14/&gt;Slovník či slovníky se Vám zobrazí v dialogovém okně "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of the license is included in the section entitled “GNU Free Documentation License.”</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195825Z" creationid="Pan Václav" creationdate="20180409T052852Z">
