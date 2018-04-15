@@ -1007,6 +1007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Selecting a dictionary and “Install” causes the relevant dictionary to be downloaded from the Internet to the folder which you specified in &lt;f13&gt;a)&lt;/f13&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T101603Z" creationid="Marie" creationdate="20180415T101603Z">
+        <seg>Výběr slovníku a instalace způsobí, že náležitý slovník se stáhne z Internetu do složky, kterou jste upřesnili v &lt;f13&gt;a)&lt;/f13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Set it up just as you did with &lt;f1&gt;My Project-1&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100416Z" creationid="Marie" creationdate="20180412T100416Z">
