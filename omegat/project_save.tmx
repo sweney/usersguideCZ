@@ -441,8 +441,8 @@
       <tuv lang="EN-US">
         <seg>Click on “Segmentation” to call up the Segmentation Setup dialog.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T110619Z" creationid="Marie" creationdate="20180415T110619Z">
-        <seg>Klikněte na "Segmentace" k otevření dialogu Nastavení segmentace</seg>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T110627Z" creationid="Marie" creationdate="20180415T110619Z">
+        <seg>Klikněte na "Segmentace" k otevření dialogu Nastavení segmentace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -939,6 +939,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100018Z" creationid="ivaparakova" creationdate="20180412T095934Z">
         <seg>OmegaT je „inline“ překladová pamětová aplikace, což znamená, že uvidíte pouze jednu kopii textu. Segmenty, které již byly přeloženy si samozřejmě můžete zobrazit, ale jinak se vám zobrazuje nepřeložený zdrojový text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT is supplied with a number of very basic segmentation patterns.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T110938Z" creationid="Marie" creationdate="20180415T110938Z">
+        <seg>OmegaT je doplněna několika velmi základními segmentačními vzorky.</seg>
       </tuv>
     </tu>
     <tu>
