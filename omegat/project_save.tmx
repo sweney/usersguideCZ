@@ -583,6 +583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For some languages, it is quite a bit out of date.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093125Z" creationid="Marie" creationdate="20180415T093125Z">
+        <seg>U některých jazyků je trochu zastaralá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Handling tags</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100308Z" creationid="Turih" creationdate="20180411T070206Z">
@@ -681,8 +689,8 @@
       <tuv lang="EN-US">
         <seg>Installing a spelling dictionary</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T201129Z" creationid="bures" creationdate="20180410T201129Z">
-        <seg>Instalace pravopisného slovníku? TODO</seg>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093251Z" creationid="bures" creationdate="20180410T201129Z">
+        <seg>Instalace pravopisného slovníku</seg>
       </tuv>
     </tu>
     <tu>
@@ -867,6 +875,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195702Z" creationid="Vasee" creationdate="20180409T051007Z">
         <seg>Tento dokument můžete kopírovat, šířit nebo upravovat na základě ustanovení GNU Free Documentation License, verze 1.2 nebo jakékoliv později vydané nadací Free Software Foundation. TODO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please contact the Yahoo user group&lt;f0&gt;.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093226Z" creationid="Marie" creationdate="20180415T093226Z">
+        <seg>Prosím kontaktujte skupinu uživatelů Yahoo&lt;f0&gt;.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1207,6 +1223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Volunteers to translate the current documentation are welcome!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093151Z" creationid="Marie" creationdate="20180415T093151Z">
+        <seg>Dobrovolníci kteří by přeložili současnou dokumentaci jsou vítáni!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We ignore these in Project 1 only for training purposes.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095321Z" creationid="Vasee" creationdate="20180411T095321Z">
@@ -1251,6 +1275,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095856Z" creationid="ivaparakova" creationdate="20180412T095856Z">
         <seg>Napište váš překlad do příslušného pole, potvrďte stisknutím klávesy Enter a tak pokračujte dále.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will need a place to store your dictionary or dictionaries for your target language’s spell checker (this is &lt;f0&gt;not&lt;/f0&gt; the place for bilingual dictionaries).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093513Z" creationid="Marie" creationdate="20180415T093513Z">
+        <seg>Budete potřebovat místo k uložení slovníku nebo slovníků pro kontrolu pravopisu ve vašem cílovém jazyku (toto &lt;f0&gt;není&lt;/f0&gt; místem pro bilingvní slovníky).</seg>
       </tuv>
     </tu>
     <tu>
