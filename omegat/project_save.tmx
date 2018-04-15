@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;df0&gt;&lt;di1/&gt;&lt;s2&gt;create_new&lt;/s2&gt;&lt;/df0&gt;&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T110159Z" creationid="Marie" creationdate="20180415T110159Z">
+        <seg>&lt;df0&gt;&lt;di1/&gt;&lt;s2&gt;vytvořit_nový&lt;/s2&gt;&lt;/df0&gt;&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;f0&gt;Do not change any other settings, for the purposes of this tutorial.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093429Z" creationid="Vasee" creationdate="20180411T093429Z">
@@ -427,6 +435,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095234Z" creationid="Pan Václav" creationdate="20180411T122428Z">
         <seg>Klikněte a přetáhněte nově vytvořený .odt soubor do zdrojové složky Můj projekt-1, kterou jste vytvořili v kroku 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click on “Segmentation” to call up the Segmentation Setup dialog.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T110619Z" creationid="Marie" creationdate="20180415T110619Z">
+        <seg>Klikněte na "Segmentace" k otevření dialogu Nastavení segmentace</seg>
       </tuv>
     </tu>
     <tu>
@@ -1071,6 +1087,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select the desired source and target languages by clicking on the arrows to the right of these fields.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T110138Z" creationid="Marie" creationdate="20180415T110138Z">
+        <seg>Vyberte požadovaný zdroj a cílové jazyky kliknutím na šipky v pravém poli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selecting a dictionary and “Install” causes the relevant dictionary to be downloaded from the Internet to the folder which you specified in &lt;f13&gt;a)&lt;/f13&gt;.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T101603Z" creationid="Marie" creationdate="20180415T101603Z">
@@ -1235,6 +1259,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095615Z" creationid="Marie" creationdate="20180412T095321Z">
         <seg>Přeložené dokumenty jsou automaticky vygenerovány v jejich původním formátu ve složce &lt;f0&gt;/target &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The “Create New Project” dialog appears.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T110020Z" creationid="Marie" creationdate="20180415T110020Z">
+        <seg>Objeví se dialog "Vytvořit nový projekt":</seg>
       </tuv>
     </tu>
     <tu>
