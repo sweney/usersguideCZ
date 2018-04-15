@@ -303,6 +303,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An example is to create a “dictionaries” folder in your Program Files (Start &gt; My Computer &gt; &lt;s1/&gt;Local Disk (C:) &gt; Program Files &gt; right click &gt; New Folder, name it “dictionaries.”) Then from the OmegaT menu, click Options &gt; Spell checking.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T100332Z" creationid="Marie" creationdate="20180415T100332Z">
+        <seg>Příkladem je vytvořit složku "slovníky" v Program Files (Start &gt; Počítač &gt; &lt;s1/&gt;Místní disk (C:) &gt; Program Files &gt; pravé tlačítko &gt; Nová složka, nazvěte ji "slovníky.") Pak v menu OmegaT klikněte na Možnosti &gt; Kontrola pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appendix</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T073157Z" creationid="Turih" creationdate="20180411T073157Z">
