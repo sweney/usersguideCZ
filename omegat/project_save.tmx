@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -587,6 +587,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100346Z" creationid="ivaparakova" creationdate="20180412T100346Z">
         <seg>Zvládnout práci s tagy chvíli trvá. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Editing pane is empty, the language of your Windows installation is probably not English and OmegaT does not have an Instant Start tutorial in your language.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T092802Z" creationid="Marie" creationdate="20180415T092802Z">
+        <seg>Pokud je tabulka Editor prázdná, jazyk Vaší Windows instalace nejspíš není angličitna, a OmegaT nemá návod Rychlý start ve vašem jazyce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1467,6 +1475,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094428Z" creationid="Vasee" creationdate="20180411T094428Z">
         <seg>folders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>home</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T092209Z" creationid="Marie" creationdate="20180415T092209Z">
+        <seg>domů</seg>
       </tuv>
     </tu>
     <tu>
