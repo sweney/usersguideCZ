@@ -999,6 +999,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pick the one for the language of your source text (e.g., Italian, “IT.*”), and use “Move Up” to move it to the top of the list.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T111227Z" creationid="Marie" creationdate="20180415T111100Z">
+        <seg>Vyberte jeden pro jazyk vašeho zdrojového textu (např. italština, "IT.*") a klikněte na "Posunout nahoru" k jeho posunutí na vrchol seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Please contact the Yahoo user group&lt;f0&gt;.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093226Z" creationid="Marie" creationdate="20180415T093226Z">
