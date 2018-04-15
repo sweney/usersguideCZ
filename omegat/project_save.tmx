@@ -256,8 +256,8 @@
       <tuv lang="EN-US">
         <seg>&lt;s14/&gt;You will see that the dictionary or dictionaries appear listed in the “spellchecker setup” dialog window &lt;f15&gt;c)&lt;/f15&gt;.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T103951Z" creationid="Marie" creationdate="20180415T103951Z">
-        <seg>&lt;s14/&gt;Slovník či slovníky se Vám zobrazí v dialogovém okně "</seg>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T104412Z" creationid="Marie" creationdate="20180415T103951Z">
+        <seg>&lt;s14/&gt;Slovník či slovníky se Vám zobrazí v dialogovém okně "Instalátor slovníků"&lt;f15&gt;c)&lt;/f15&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,7 +329,7 @@
       <tuv lang="EN-US">
         <seg>An example is to create a “dictionaries” folder in your Program Files (Start &gt; My Computer &gt; &lt;s1/&gt;Local Disk (C:) &gt; Program Files &gt; right click &gt; New Folder, name it “dictionaries.”) Then from the OmegaT menu, click Options &gt; Spell checking.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T100332Z" creationid="Marie" creationdate="20180415T100332Z">
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T104106Z" creationid="Marie" creationdate="20180415T100332Z">
         <seg>Příkladem je vytvořit složku "slovníky" v Program Files (Start &gt; Počítač &gt; &lt;s1/&gt;Místní disk (C:) &gt; Program Files &gt; pravé tlačítko &gt; Nová složka, nazvěte ji "slovníky.") Pak v menu OmegaT klikněte na Možnosti &gt; Kontrola pravopisu.</seg>
       </tuv>
     </tu>
@@ -409,8 +409,8 @@
       <tuv lang="EN-US">
         <seg>Click Choose and navigate to the “dictionaries” folder (screenshot, &lt;f2&gt;a, &lt;/f2&gt;below).</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T100547Z" creationid="Marie" creationdate="20180415T100547Z">
-        <seg>Klikněte na Vybrat a přejděte do složky "slovníky" (screenshot, &lt;f2&gt;a,&lt;/f2&gt;dole).</seg>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T104152Z" creationid="Marie" creationdate="20180415T100547Z">
+        <seg>Klikněte na Vybrat a přejděte do adresáře "slovníky" (screenshot, &lt;f2&gt;a,&lt;/f2&gt;dole).</seg>
       </tuv>
     </tu>
     <tu>
