@@ -871,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigate to a suitable folder in which to create the project, e.g., the main &lt;t0/&gt;folder you use for your translations, or you can place it on the Desktop for temporary ease of access, and later move it to My Documents or a similar location for storage.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105839Z" creationid="Marie" creationdate="20180415T105839Z">
+        <seg>Přejděte na vhodný adresář k vytvoření projektu, např. hlavní &lt;t0/&gt;adresář, který používáte pro své překlady, nebo jej můžete umístit na Plochu pro dočasný snadný přístup, a později jej přesunete do Dokumentů, nebo do podobného úložiště.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Of course, you must be connected to the Internet for this function to work.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T102028Z" creationid="Marie" creationdate="20180415T102028Z">
@@ -1215,6 +1223,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The “Create a New Project” dialog appears (not shown here).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105116Z" creationid="Marie" creationdate="20180415T105116Z">
+        <seg>Objeví se dialog "Vytvořit nový projekt" (zde nezobrazen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Then use File &gt; Open to Choose open any short MS Word document (.docx format) document in the source language.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121729Z" creationid="Pan Václav" creationdate="20180411T121729Z">
@@ -1259,6 +1275,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100146Z" creationid="ivaparakova" creationdate="20180412T100146Z">
         <seg>To je užitečné, pokud máte hodně naformátovaný text. Je snazší zachovat značky a jednoduše nahradit text mezi nimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To create a project in OmegaT, select Project, then click New.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105029Z" creationid="Marie" creationdate="20180415T105029Z">
+        <seg>K vytvoření projektu v programu OmegaT vyberte Projekt, poté klikněte na Nový.</seg>
       </tuv>
     </tu>
     <tu>
