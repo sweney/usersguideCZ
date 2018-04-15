@@ -839,6 +839,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make sure the language variant of your dictionary matches the language variant of your target language, or the spellchecker will not work properly (e.g., British English or American English).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T104629Z" creationid="Marie" creationdate="20180415T104629Z">
+        <seg>Ujistěte se, že varianta jazyka vašeho slovníku se shoduje s variantou jazyka ve vašem cílovém jazyce, jinak kontrola pravopisu nebude pořádně fungovat (např. britská angličtina nebo americká angličtina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigate to &lt;f0&gt;My Project-1 &lt;/f0&gt;(it will have the OmegaT icon beside it).</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095423Z" creationid="Pan Václav" creationdate="20180411T122559Z">
