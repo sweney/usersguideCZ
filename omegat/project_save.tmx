@@ -383,6 +383,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Click Choose and navigate to the “dictionaries” folder (screenshot, &lt;f2&gt;a, &lt;/f2&gt;below).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T100547Z" creationid="Marie" creationdate="20180415T100547Z">
+        <seg>Klikněte na Vybrat a přejděte do složky "slovníky" (screenshot, &lt;f2&gt;a,&lt;/f2&gt;dole).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Click and drag the newly created .odt file to the &lt;f0&gt;/source&lt;/f0&gt; folder of your &lt;f1&gt;My Project-1&lt;/f1&gt; folder, which you created in Step &lt;f2&gt;5&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095234Z" creationid="Pan Václav" creationdate="20180411T122428Z">
