@@ -583,6 +583,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a suitable name for your project, such as the client’s name and purchase order number, and click Save.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105912Z" creationid="Marie" creationdate="20180415T105912Z">
+        <seg>Vložte vhodný název pro svůj projekt, jako například klientovo jméno a číslo objednávky a klikněte na Uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FUTURE REVISIONS OF THIS LICENSE</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Štefan" changedate="20180412T094901Z" creationid="Štefan" creationdate="20180412T094901Z">
@@ -627,6 +635,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100430Z" creationid="ivaparakova" creationdate="20180412T100430Z">
         <seg>Například tento text v češtině:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For purposes of this tutorial, let’s call it &lt;f0&gt;My Project-1.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105959Z" creationid="Marie" creationdate="20180415T105959Z">
+        <seg>Pro účely tohoto návodu, nazveme jej &lt;f0&gt;Můj Projekt-1.&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
