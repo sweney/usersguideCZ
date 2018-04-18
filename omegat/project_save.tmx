@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -599,6 +599,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>English to Spanish</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180418T124707Z" creationid="jan_fusik" creationdate="20180418T124707Z">
+        <seg>angličtina - španělština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter a suitable name for your project, such as the client’s name and purchase order number, and click Save.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105912Z" creationid="Marie" creationdate="20180415T105912Z">
@@ -667,6 +675,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093125Z" creationid="Marie" creationdate="20180415T093125Z">
         <seg>U některých jazyků je trochu zastaralá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>French to English</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180418T124824Z" creationid="jan_fusik" creationdate="20180418T124824Z">
+        <seg>francouzština - angličtina</seg>
       </tuv>
     </tu>
     <tu>
@@ -1511,6 +1527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>dancing</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180418T124939Z" creationid="jan_fusik" creationdate="20180418T124939Z">
+        <seg>tancování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>dorset</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114705Z" creationid="R2D2" creationdate="20180411T114705Z">
@@ -1683,6 +1707,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193501Z" creationid="R2D2" creationdate="20180411T193501Z">
         <seg>en.wikipedia.org/wiki/World_records_in_swimming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>esoteric</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180418T124840Z" creationid="jan_fusik" creationdate="20180418T124840Z">
+        <seg>esoterický</seg>
       </tuv>
     </tu>
     <tu>
