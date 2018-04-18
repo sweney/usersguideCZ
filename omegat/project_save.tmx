@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -705,8 +705,8 @@
       <tuv lang="EN-US">
         <seg>If the Editing pane is empty, the language of your Windows installation is probably not English and OmegaT does not have an Instant Start tutorial in your language.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T092802Z" creationid="Marie" creationdate="20180415T092802Z">
-        <seg>Pokud je tabulka Editor prázdná, jazyk Vaší Windows instalace nejspíš není angličitna, a OmegaT nemá návod Rychlý start ve vašem jazyce.</seg>
+      <tuv lang="cs-CZ" changeid="sweney" changedate="20180418T201504Z" creationid="Marie" creationdate="20180415T092802Z">
+        <seg>Pokud je tabulka Editor prázdná, jazyk Vaší Windows instalace nejspíš není angličtina, a OmegaT nemá návod Rychlý start ve vašem jazyce.</seg>
       </tuv>
     </tu>
     <tu>
