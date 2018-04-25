@@ -535,6 +535,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Download OmegaT (the OmegaT site tells you the various options; “beta” versions are stable, but may have a bug or two and do not have up-to-date documentation).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T180749Z" creationid="jan_fusik" creationdate="20180425T180749Z">
+        <seg>Stáhněte si OmegaT (webová stránka vám nabídne různé varianty programu: "beta" verze jsou stabilní, ale mohou obsahovat chyby a nemají nejaktuálnější dokumentaci).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Downloading OmegaT</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200928Z" creationid="bures" creationdate="20180410T200928Z">
@@ -1755,6 +1763,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T092209Z" creationid="Marie" creationdate="20180415T092209Z">
         <seg>domů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>http://en.wikipedia.org/wiki/Computer-assisted_translation</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T180442Z" creationid="jan_fusik" creationdate="20180425T180442Z">
+        <seg>http://en.wikipedia.org/wiki/Computer-assisted_translation</seg>
       </tuv>
     </tu>
     <tu>
