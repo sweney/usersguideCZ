@@ -687,6 +687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the purposes of this tutorial, we assume that you will be using a Windows operating system.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T181447Z" creationid="jan_fusik" creationdate="20180425T181447Z">
+        <seg>Pro účely tohoto tutoriálu předpokládáme, že budete používat operační systém Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>French to English</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180418T124824Z" creationid="jan_fusik" creationdate="20180418T124824Z">
@@ -731,6 +739,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092549Z" creationid="Vasee" creationdate="20180408T052546Z">
         <seg>Pokud jazyk vašeho zdrojového textu není na seznamu, vyberte jazyk, který na něm je a dvakrát klikněte na pole s názvem jazyka a změňte ho na zkratku vašeho jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you are using another system, and run into problems, the OmegaT users group at Yahoo can help you (see Step &lt;f0&gt;8&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T181621Z" creationid="jan_fusik" creationdate="20180425T181621Z">
+        <seg>Pokud používáte jiný operační systém a vyskytnou se technické problémy, uživatelská skupina OmegaT na Yahoo vám může pomoci (viz Krok &lt;f0&gt;8&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
