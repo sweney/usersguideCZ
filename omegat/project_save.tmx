@@ -823,6 +823,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is advisable to choose a version that includes Java (JRE) in your download.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T181426Z" creationid="jan_fusik" creationdate="20180425T181426Z">
+        <seg>Doporučujeme zvolit si verzi, která obsahuje Java (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not worth getting bogged down with fine-tuning the segmentation rules at this stage; the basic rules as supplied should work adequately for demonstration purposes, even for a different (source) language, provided its sentence punctuation rules are broadly similar (i.e., don’t use the Japanese segmentation rules if you are translating from Italian).</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093337Z" creationid="Vasee" creationdate="20180411T092919Z">
