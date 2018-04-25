@@ -537,8 +537,8 @@
       <tuv lang="EN-US">
         <seg>Download OmegaT (the OmegaT site tells you the various options; “beta” versions are stable, but may have a bug or two and do not have up-to-date documentation).</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T180749Z" creationid="jan_fusik" creationdate="20180425T180749Z">
-        <seg>Stáhněte si OmegaT (webová stránka vám nabídne různé varianty programu: "beta" verze jsou stabilní, ale mohou obsahovat chyby a nemají nejaktuálnější dokumentaci).</seg>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T180803Z" creationid="jan_fusik" creationdate="20180425T180749Z">
+        <seg>Stáhněte si OmegaT (webová stránka vám nabídne různé varianty programu; "beta" verze jsou stabilní, ale mohou obsahovat chyby a nemají nejaktuálnější dokumentaci).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1295,6 +1295,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The on-screen download instructions should be self-explanatory.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T181220Z" creationid="jan_fusik" creationdate="20180425T181220Z">
+        <seg>Zobrazené pokyny ke stažení jsou snadno srozumitelné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The procedures described in Project 1, Steps &lt;f2&gt;6.A.1-6.A.4,&lt;/f2&gt; all apply here too, for HTML files.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100546Z" creationid="Marie" creationdate="20180412T100546Z">
@@ -1819,6 +1827,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100643Z" creationid="ivaparakova" creationdate="20180412T100643Z">
         <seg>což se v cílovém textu zobrazí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>www.omegat.org</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T180807Z" creationid="jan_fusik" creationdate="20180425T180807Z">
+        <seg>www.omegat.org</seg>
       </tuv>
     </tu>
     <tu>
