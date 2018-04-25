@@ -807,6 +807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It does not support the older Microsoft Office file formats (.doc, .xls, .ppt); these must first be converted, e.g., to the current Microsoft Office file formats.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T175445Z" creationid="jan_fusik" creationdate="20180425T175445Z">
+        <seg>Nepodporuje starší formáty souborů Microsoft Office (.doc, .xls, .ppt); tyto musí být nejprve převedeny, např. na aktuální formáty souborů Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is not worth getting bogged down with fine-tuning the segmentation rules at this stage; the basic rules as supplied should work adequately for demonstration purposes, even for a different (source) language, provided its sentence punctuation rules are broadly similar (i.e., don’t use the Japanese segmentation rules if you are translating from Italian).</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093337Z" creationid="Vasee" creationdate="20180411T092919Z">
@@ -969,8 +977,8 @@
       <tuv lang="EN-US">
         <seg>OmegaT supports the current Microsoft Office file formats (.docx, .xlsx, .pptx).</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T175244Z" creationid="jan_fusik" creationdate="20180425T175244Z">
-        <seg>OmegaT podporuje všechny dostupné formáty souborů Microsoft Office (.docx, .xlsx, .pptx).</seg>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T175456Z" creationid="jan_fusik" creationdate="20180425T175244Z">
+        <seg>OmegaT podporuje aktuální formáty souborů Microsoft Office (.docx, .xlsx, .pptx).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1123,6 +1131,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101208Z" creationid="ivaparakova" creationdate="20180412T101208Z">
         <seg>Viz uživatelská příručka (F1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the following for more information on CAT tools, including on the many varieties available:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T180438Z" creationid="jan_fusik" creationdate="20180425T180438Z">
+        <seg>Pro více informací ohledně CAT nástrojů (včetně mnoha jejich variant) klikněte na následující odkaz:</seg>
       </tuv>
     </tu>
     <tu>
