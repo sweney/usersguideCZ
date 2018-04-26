@@ -399,14 +399,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>COPYING IN QUANTITY</seg>
-      </tuv>
-      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094712Z" creationid="Uživatel" creationdate="20180412T094712Z">
-        <seg>HROMADNÉ KOPÍROVÁNÍ</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Checking your translation</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T070220Z" creationid="Turih" creationdate="20180411T070220Z">
@@ -915,14 +907,6 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100447Z" creationid="ivaparakova" creationdate="20180412T100447Z">
         <seg>Podívej se na &lt;f0&gt;to&lt;/f0&gt;!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>MODIFICATIONS</seg>
-      </tuv>
-      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094717Z" creationid="Uživatel" creationdate="20180412T094717Z">
-        <seg>ÚPRAVY</seg>
       </tuv>
     </tu>
     <tu>
@@ -1443,14 +1427,6 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101359Z" creationid="ivaparakova" creationdate="20180412T101235Z">
         <seg>Dokud opravdu neumíte s tagy pracovat, je-li to možné, zachovejte je všechny a nejlépe ve stejném pořadí.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>VERBATIM COPYING</seg>
-      </tuv>
-      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094659Z" creationid="Uživatel" creationdate="20180412T094659Z">
-        <seg>KOPÍROVÁNÍ SLOVO OD SLOVA</seg>
       </tuv>
     </tu>
     <tu>
