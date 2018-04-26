@@ -302,6 +302,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After downloading OmegaT (Windows version), launch the .exe file and follow the on-screen instructions, which should be self-explanatory.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091256Z" creationid="Štefan" creationdate="20180426T091256Z">
+        <seg>Po stažení programu OmegaT (verze pro Windows) spusťte soubor .exe a postupujte podle instrukcí na obrazovce, které by měly být zřetelné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After launching OmegaT, the main OmegaT window should appear with three main panes: the Editing pane, the Fuzzy Matches pane, and the Glossary pane; and five optional panes: Machine Translation, Multiple Translations, Notes, Comments, and Dictionary.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091306Z" creationid="Štefan" creationdate="20180426T091306Z">
+        <seg>Po spuštění OmegaT by se mělo zobrazit hlavní okno se třemi hlavními panely: Editor, Částečné shody a Glosář a pěti dalšími panely: Strojový překlad, Více překladů, Poznámky, Komentáře a Slovník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After revising the text and making any corrections, create the translated &lt;t0/&gt;documents again and close the project.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T100040Z" creationid="Patrik" creationdate="20180412T100040Z">
@@ -607,6 +623,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eventually, you will reach the end of the file you are translating.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091428Z" creationid="Štefan" creationdate="20180426T091428Z">
+        <seg>Po čase se dostanete až na konec překládaného souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Final checking, correction, and delivery</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095637Z" creationid="Marie" creationdate="20180412T095637Z">
@@ -727,6 +751,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can’t see all the main panes, drag the borders between them across your screen until they are arranged approximately as shown below.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091325Z" creationid="Štefan" creationdate="20180426T091325Z">
+        <seg>Pokud nevidíte všechny hlavní panely, upravujte potažením hranice mezi nimi, dokud nebudou seřazeny přibližně jako na ilustraci níže.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you prefer to check your translation on paper, print out the target document.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095731Z" creationid="Marie" creationdate="20180412T095731Z">
@@ -755,6 +788,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T095042Z" creationid="Patrik" creationdate="20180412T095042Z">
         <seg>Pokud váš projekt obsahuje více než jeden soubor k přeložení, potvrzení posledního segmentu prvního souboru vás automaticky nasměruje na první segment následujícího souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of OmegaT, the source is displayed above the target text of the active segment, facilitating comparison:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091444Z" creationid="Štefan" creationdate="20180426T091444Z">
+        <seg>V programu OmegaT se zdrojový text zobrazuje nad cílovým textem v aktivním segmentu, což umožňuje srovnávání.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1207,6 +1248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Editing pane displays the “Instant Start” tutorial in English.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091334Z" creationid="Štefan" creationdate="20180426T091334Z">
+        <seg>Panel Editor obsahuje tutoriál "Rychlý start".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OmegaT user group</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T073040Z" creationid="Turih" creationdate="20180411T073040Z">
@@ -1235,6 +1284,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093559Z" creationid="Vasee" creationdate="20180411T093559Z">
         <seg>Zobrazí se vám okno Soubory projektu, které je prázdné, protože váš projekt neobsahuje žádné soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The User’s Manual can be called up with the “Help” menu item or F1.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091343Z" creationid="Štefan" creationdate="20180426T091343Z">
+        <seg>Uživatelský manuál lze spustit kliknutím na položku "Nápověda" nebo stisknutím tlačítka F1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1283,6 +1340,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T181220Z" creationid="jan_fusik" creationdate="20180425T181220Z">
         <seg>Zobrazené pokyny ke stažení jsou snadno srozumitelné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The optional panes are covered in the comprehensive User’s Manual.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091316Z" creationid="Štefan" creationdate="20180426T091316Z">
+        <seg>Volitelnými panely se dopodrobna zabývá Uživatelský manuál.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1407,6 +1472,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unpack (extract, unzip) the zip archive.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091252Z" creationid="Štefan" creationdate="20180426T091252Z">
+        <seg>Rozbalte (extrahujte) archiv ZIP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Until you are familiar with tag handling, it is best to retain all the tags and to keep them in the same order if at all possible.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101359Z" creationid="ivaparakova" creationdate="20180412T101235Z">
@@ -1451,6 +1524,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200916Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
         <seg>Co to jsou CAT nástroje a jak mi mohou pomoct?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When/after downloading the zip file, place it in a suitable folder, e.g., for Windows, &lt;s0/&gt;C:\Program Files.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091226Z" creationid="Štefan" creationdate="20180426T091226Z">
+        <seg>Po stažení souboru ZIP jej uložte do vhodné složky, např. pro systém Windows do &lt;s0/&gt;C:\Program Files.</seg>
       </tuv>
     </tu>
     <tu>
