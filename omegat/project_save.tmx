@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10323" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -905,8 +905,8 @@
       <tuv lang="EN-US">
         <seg>Make sure the language variant of your dictionary matches the language variant of your target language, or the spellchecker will not work properly (e.g., British English or American English).</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T104708Z" creationid="Marie" creationdate="20180415T104629Z">
-        <seg>Ujistěte se, aby se varianta jazyka vašeho slovníku shodovala s variantou jazyka ve vašem cílovém jazyce, jinak kontrola pravopisu nebude pořádně fungovat (např. britská angličtina nebo americká angličtina).</seg>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091902Z" creationid="Marie" creationdate="20180415T104629Z">
+        <seg>Ujistěte se, že se varianta jazyka vašeho slovníku shoduje s variantou jazyka ve vašem cílovém jazyce, jinak kontrola pravopisu nebude pořádně fungovat (např. britská angličtina nebo americká angličtina).</seg>
       </tuv>
     </tu>
     <tu>
