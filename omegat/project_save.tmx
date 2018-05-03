@@ -545,8 +545,8 @@
       <tuv lang="EN-US">
         <seg>Downloading OmegaT</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200928Z" creationid="bures" creationdate="20180410T200928Z">
-        <seg>Stáhnutí OmegaT</seg>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180503T094502Z" creationid="bures" creationdate="20180410T200928Z">
+        <seg>Stažení OmegaT</seg>
       </tuv>
     </tu>
     <tu>
