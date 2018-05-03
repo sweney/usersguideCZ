@@ -856,6 +856,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It does not support the older Microsoft Office file formats (.doc, .xls, .ppt);</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180503T100748Z" creationid="jan_fusik" creationdate="20180503T100748Z">
+        <seg>Nepodporuje starší formáty souborů Microsoft Office (.doc, .xls, .ppt);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It does not support the older Microsoft Office file formats (.doc, .xls, .ppt); these must first be converted, e.g., to the current Microsoft Office file formats.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T175445Z" creationid="jan_fusik" creationdate="20180425T175445Z">
@@ -1892,6 +1900,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114440Z" creationid="R2D2" creationdate="20180411T114440Z">
         <seg>plavání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>these must first be converted, e.g., to the current Microsoft Office file formats.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180503T101022Z" creationid="jan_fusik" creationdate="20180503T101022Z">
+        <seg>tyto musí být nejprve převedeny, např. na novější formát souboru Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
