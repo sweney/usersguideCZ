@@ -399,6 +399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAT tools range in price from free (OmegaT) to $2,500 or more.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180503T100307Z" creationid="jan_fusik" creationdate="20180503T100307Z">
+        <seg>CAT nástroje se cenově liší. Mohou být bezplatné (OmegaT) či dosahovat ceny až 53,000 CZK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>COLLECTIONS OF DOCUMENTS</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094741Z" creationid="Uživatel" creationdate="20180412T094741Z">
