@@ -1008,6 +1008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmegaT is an excellent place to start, as the price is right, it is relatively easy to learn, and it runs on MAC and under Linux, as well as Windows.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180503T100702Z" creationid="jan_fusik" creationdate="20180503T100702Z">
+        <seg>OmegaT je skvělý nástroj pro začínající uživatele - cenově příjemný, poměrně snadný k pochopení a je kompatibilní s většinou operačních systémů (Windows, MAC, Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT is an “inline” translation memory application, meaning that you see only one copy of the text; segments which have already been translated appear as such, otherwise the untranslated source text is displayed.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100018Z" creationid="ivaparakova" creationdate="20180412T095934Z">
