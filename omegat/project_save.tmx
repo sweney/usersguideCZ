@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="paragraph" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1048,6 +1048,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OmT has moderated membership, i.e., your membership first has to be approved.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T170320Z" creationid="SazimaR" creationdate="20180505T170320Z">
+        <seg>OmT má moderované členství, tzn. vaše členství musí být nejdříve schváleno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OmegaT does allow you to delete tags and to change their order, but only if certain rules are carefully followed.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101425Z" creationid="ivaparakova" creationdate="20180412T101425Z">
@@ -1060,6 +1068,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052938Z" creationid="Vasee" creationdate="20180408T052938Z">
         <seg>OmegaT pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT has a friendly and helpful user group.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T165921Z" creationid="SazimaR" creationdate="20180505T165921Z">
+        <seg>OmegaT má přátelskou a nápomocnou skupinu uživatelů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1092,6 +1108,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T175456Z" creationid="jan_fusik" creationdate="20180425T175244Z">
         <seg>OmegaT podporuje aktuální formáty souborů Microsoft Office (.docx, .xlsx, .pptx).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you have joined, you can post questions there regarding OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T170016Z" creationid="SazimaR" creationdate="20180505T165926Z">
+        <seg>Poté, co se ke skupině přidáte, můžete se zeptat na rady ohledně aplikace OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1330,8 +1354,8 @@
       <tuv lang="EN-US">
         <seg>The OmegaT user group</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T073040Z" creationid="Turih" creationdate="20180411T073040Z">
-        <seg>Uživatelská skupina aplikace OmegaT</seg>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T165939Z" creationid="Turih" creationdate="20180411T073040Z">
+        <seg>Skupina uživatelů aplikace OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1412,6 +1436,22 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072917Z" creationid="Turih" creationdate="20180411T072433Z">
         <seg>Funkce „Glosář“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The group can be found at &lt;a0&gt;groups.yahoo.com/group/omegat&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T170031Z" creationid="SazimaR" creationdate="20180505T170031Z">
+        <seg>Skupina naleznete na adrese &lt;a0&gt;groups.yahoo.com/group/omegat&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The group is hosted by Yahoo!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T170042Z" creationid="SazimaR" creationdate="20180505T170042Z">
+        <seg>Skupinu zřizuje Yahoo!</seg>
       </tuv>
     </tu>
     <tu>
