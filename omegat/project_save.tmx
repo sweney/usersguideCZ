@@ -679,6 +679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more advanced users, there is a plugin called OmegaT-tokenizers (for use in OmegaT version 2.1.1 and later versions), which allows OmegaT to recognize inflected forms of a word.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T162457Z" creationid="SazimaR" creationdate="20180505T162457Z">
+        <seg>Pro pokročilejší uživatele je k dispozici plugin OmegaT-tokenizers (pro použití v OmegaT verze 2.1.1 a novějších verzích), který umožňuje aplikaci OmegaT rozpoznat skloňování slov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For purposes of this tutorial, let’s call it &lt;f0&gt;My Project-1.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105959Z" creationid="Marie" creationdate="20180415T105959Z">
@@ -1468,6 +1476,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100146Z" creationid="ivaparakova" creationdate="20180412T100146Z">
         <seg>To je užitečné, pokud máte hodně naformátovaný text. Je snazší zachovat značky a jednoduše nahradit text mezi nimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those interested may consult the User‘s Manual and the users' group on Yahoo.The more recent versions of OmegaT automatically incorporate a “tokenizer” function, which allows the system to recognize inflected forms of a word.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T162609Z" creationid="SazimaR" creationdate="20180505T162609Z">
+        <seg>Zájemci mohou nahlédnout do Uživatelské příručky a kontaktovat uživatelskou skupinu na Yahoo. Novější verze OmegaT automaticky zahrnují funkci "tokenizer", která umožňuje systému rozpoznat skloňování slov.</seg>
       </tuv>
     </tu>
     <tu>
