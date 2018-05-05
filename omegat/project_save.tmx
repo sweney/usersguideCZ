@@ -369,8 +369,8 @@
       <tuv lang="EN-US">
         <seg>As with the glossary function, you can use keyboard shortcuts to copy and paste content from the Text Search window into the active translation segment.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T164250Z" creationid="SazimaR" creationdate="20180505T164250Z">
-        <seg>Stejně jako u slovníkové funkce můžete pomocí klávesových zkratek zkopírovat a vložit obsah z okna pro vyhledávání textu do aktivního segmentu překladů.</seg>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T164904Z" creationid="SazimaR" creationdate="20180505T164250Z">
+        <seg>Stejně jako u slovníkové funkce můžete pomocí klávesových zkratek zkopírovat a vložit obsah z okna pro vyhledávání textu do aktivního překládaného segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -687,6 +687,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For details, see the User’s Manual.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T165108Z" creationid="SazimaR" creationdate="20180505T165108Z">
+        <seg>Podrobnosti naleznete v uživatelské příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, this text in English:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100430Z" creationid="ivaparakova" creationdate="20180412T100430Z">
@@ -804,6 +812,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092846Z" creationid="Vasee" creationdate="20180411T092846Z">
         <seg>Pokud budete OmeguT používat častěji, budete si určitě chtít upravit pravidla segmentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you wish to change the text in a segment within the current project which is displayed in the Text Search window, double-click on it and OmegaT will take you to the segment concerned.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T165016Z" creationid="SazimaR" creationdate="20180505T165016Z">
+        <seg>Pokud chcete změnit text v segmentu v aktuálním projektu, který se zobrazí v okně pro vyhledávání textu,dvojitým kliknutím na daný text vás aplikace OmegaT přenese do příslušného segmentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1012,6 +1028,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105839Z" creationid="Marie" creationdate="20180415T105839Z">
         <seg>Přejděte na vhodný adresář k vytvoření projektu, např. hlavní &lt;t0/&gt;adresář, který používáte pro své překlady, nebo jej můžete umístit na Plochu pro dočasný snadný přístup, a později jej přesunete do Dokumentů, nebo do podobného úložiště.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that there is no an automatic “global replace” function available as a “scripting” plugin outside the main program, also described in the User’s Manual., but there are “workarounds” that can be used.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T165355Z" creationid="SazimaR" creationdate="20180505T165355Z">
+        <seg>Všimněte si, že neexistuje žádná automatická funkce "globální nahrazení", která by byla k dispozici jako "skriptovací" plugin mimo hlavní program, popsaný také v uživatelské příručce. Existují však jistá "řešení", která mohou být použita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1332,6 +1356,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093559Z" creationid="Vasee" creationdate="20180411T093559Z">
         <seg>Zobrazí se vám okno Soubory projektu, které je prázdné, protože váš projekt neobsahuje žádné soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Text Search window has quite powerful search functions.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T165046Z" creationid="SazimaR" creationdate="20180505T165046Z">
+        <seg>Okno hledání textu má poměrně výkonné vyhledávací funkce.</seg>
       </tuv>
     </tu>
     <tu>
