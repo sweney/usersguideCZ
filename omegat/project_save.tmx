@@ -519,6 +519,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ctrl+F calls up a search dialog with which you can search for any term throughout the project, i.e., within the source text and the legacy translation memory files, source segments, target segments, and glossary files.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T162908Z" creationid="SazimaR" creationdate="20180505T162908Z">
+        <seg>Ctrl + F otevře dialogové okno pro vyhledávání, pomocí něhož můžete hledat libovolný výraz v rámci projektu, tj.  v rámci zdrojového textu a starších překladových paměťových souborů, zdrojových segmentů, cílových segmentů a souborů glosářů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not click on “Browse” or otherwise change the default locations of the project folders (directories).&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;You have now created an empty project.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093525Z" creationid="Vasee" creationdate="20180411T093507Z">
@@ -1916,6 +1924,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114213Z" creationid="R2D2" creationdate="20180411T114213Z">
         <seg>ruština - různé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>search</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T162929Z" creationid="SazimaR" creationdate="20180505T162929Z">
+        <seg>Hledat</seg>
       </tuv>
     </tu>
     <tu>
