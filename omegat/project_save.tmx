@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="paragraph" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -49,7 +49,7 @@
         <seg>2</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Martina" changedate="20180412T095053Z" creationid="Martina" creationdate="20180412T095053Z">
-        <seg>2 </seg>
+        <seg>2</seg>
       </tuv>
     </tu>
     <tu>
@@ -57,7 +57,7 @@
         <seg>3</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Martina" changedate="20180503T100637Z" creationid="Vasee" creationdate="20180408T052933Z">
-        <seg>3 </seg>
+        <seg>3</seg>
       </tuv>
     </tu>
     <tu>
@@ -345,8 +345,7 @@
         <seg>An advantage probably common to all translation memory applications is that they simplify checking: once you have completed the first draft of your translation, you can “walk” through it with the source and target versions of each sentence displayed next to each other.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T095651Z" creationid="Patrik" creationdate="20180412T095651Z">
-        <seg>Výhodou takřka všech překladových pamětí je, že usnadňují kontrolu překladu: Po dokončení hrubého překladu si jej můžete projít s původními i přeloženými segmenty, které budou zobrazeny vedle sebe.
-</seg>
+        <seg>Výhodou takřka všech překladových pamětí je, že usnadňují kontrolu překladu: Po dokončení hrubého překladu si jej můžete projít s původními i přeloženými segmenty, které budou zobrazeny vedle sebe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,7 +513,7 @@
         <seg>Create the target documents by selecting Project &gt; Create Translated Documents.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095250Z" creationid="Marie" creationdate="20180412T095250Z">
-        <seg>Cílové dokumenty vytvoříte vybráním Projekt &gt; Vytvořit přeložené dokumenty. </seg>
+        <seg>Cílové dokumenty vytvoříte vybráním Projekt &gt; Vytvořit přeložené dokumenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,7 +577,7 @@
         <seg>Downloading the supplementary materials</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072129Z" creationid="Turih" creationdate="20180411T071950Z">
-        <seg>Stažení doplňkových materiálů </seg>
+        <seg>Stažení doplňkových materiálů</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,7 +753,7 @@
         <seg>Handling tags takes some practice.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100346Z" creationid="ivaparakova" creationdate="20180412T100346Z">
-        <seg>Zvládnout práci s tagy chvíli trvá. </seg>
+        <seg>Zvládnout práci s tagy chvíli trvá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -794,8 +793,7 @@
         <seg>If you can’t see all the main panes, drag the borders between them across your screen until they are arranged approximately as shown below.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091325Z" creationid="Štefan" creationdate="20180426T091325Z">
-        <seg>Pokud nevidíte všechny hlavní panely, upravujte potažením hranice mezi nimi, dokud nebudou seřazeny přibližně jako na ilustraci níže.
-</seg>
+        <seg>Pokud nevidíte všechny hlavní panely, upravujte potažením hranice mezi nimi, dokud nebudou seřazeny přibližně jako na ilustraci níže.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1411,7 +1409,7 @@
         <seg>The current Microsoft &lt;f0&gt;&lt;f1&gt;Office file formats (.docx, .xlsx, .pptx) &lt;/f1&gt;&lt;/f0&gt;can generate a large number of unnecessary tags, making translation cumbersome.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101325Z" creationid="ivaparakova" creationdate="20180412T100940Z">
-        <seg>Současné formáty souborů Microsoft Office (.docx, .xlsx, .pptx) můžou generovat velké množství zbytečných tagů a překlad bude nepřehledný. </seg>
+        <seg>Současné formáty souborů Microsoft Office (.docx, .xlsx, .pptx) můžou generovat velké množství zbytečných tagů a překlad bude nepřehledný.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1568,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is in order to prevent spammers &lt;t0/&gt;accessing the group.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T170559Z" creationid="SazimaR" creationdate="20180505T170559Z">
+        <seg>A to proto, aby se zabránilo přístupu spammerům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those interested may consult the User‘s Manual and the users' group on Yahoo.The more recent versions of OmegaT automatically incorporate a “tokenizer” function, which allows the system to recognize inflected forms of a word.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T162609Z" creationid="SazimaR" creationdate="20180505T162609Z">
@@ -1580,6 +1586,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105029Z" creationid="Marie" creationdate="20180415T105029Z">
         <seg>K vytvoření projektu v programu OmegaT vyberte Projekt, poté klikněte na Nový.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To join, simply “Sign In” using your e-mail.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T170648Z" creationid="SazimaR" creationdate="20180505T170648Z">
+        <seg>Pro připojení ke skupině se jednoduše přihlašte pomocí svého e-mailu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1684,6 +1698,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095856Z" creationid="ivaparakova" creationdate="20180412T095856Z">
         <seg>Napište váš překlad do příslušného pole, potvrďte stisknutím klávesy Enter a tak pokračujte dále.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will be required to send a short message from which the moderator can tell that you are a genuine user and not a spammer.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T170738Z" creationid="SazimaR" creationdate="20180505T170738Z">
+        <seg>Budete vyzváni k zaslání krátké zprávy, díky které poznáme, že jste skutečný uživatel a ne spammer.</seg>
       </tuv>
     </tu>
     <tu>
