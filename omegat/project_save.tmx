@@ -367,6 +367,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As with the glossary function, you can use keyboard shortcuts to copy and paste content from the Text Search window into the active translation segment.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T164250Z" creationid="SazimaR" creationdate="20180505T164250Z">
+        <seg>Stejně jako u slovníkové funkce můžete pomocí klávesových zkratek zkopírovat a vložit obsah z okna pro vyhledávání textu do aktivního segmentu překladů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be warned that the documentation may be a little out of date, owing to the pace at which OmegaT is being developed.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093058Z" creationid="Marie" creationdate="20180415T093058Z">
