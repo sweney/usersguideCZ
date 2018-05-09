@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a general rule for the purpose of this tutorial, assume that if something is visible in your browser, it should be translated.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T073330Z" creationid="Vasee" creationdate="20180509T073330Z">
+        <seg>Pro účely tohoto tutoriálu předpokládejme, že pokud je něco ve vašem prohlížeči viditelné, tak by to mělo být přeloženo.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As with the glossary function, you can use keyboard shortcuts to copy and paste content from the Text Search window into the active translation segment.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T164904Z" creationid="SazimaR" creationdate="20180505T164250Z">
