@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more on glossaries, including adding new terms, consult the User’s Manual.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T125417Z" creationid="Patrik" creationdate="20180509T125417Z">
+        <seg>Pro více informací o glosářích, zahrnujících například i přidávání nových termínů, se obraťte na uživatelskou příručku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For purposes of this tutorial, let’s call it &lt;f0&gt;My Project-1.&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105959Z" creationid="Marie" creationdate="20180415T105959Z">
