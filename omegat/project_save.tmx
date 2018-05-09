@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not put an article before the noun in a glossary; if you want to indicate the gender of the noun, put that after the first tab in the glossary, in the column where you put the translation.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T124931Z" creationid="Patrik" creationdate="20180509T124931Z">
+        <seg>V glosáři před podstatné jméno nevkládejte gramatický člen; pokud chcete vyjádřit rod podstatného jména, vložte jej do sloupce glosáře, kde se nachází váš překlad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do the same with the Language &lt;t4/&gt;Pattern field.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092712Z" creationid="Vasee" creationdate="20180411T092605Z">
