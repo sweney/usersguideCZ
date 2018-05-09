@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you are finished and ready to check your work, you can open the translated files in &lt;f0&gt;/target&lt;/f0&gt; in your browser and read through them, and/or &lt;t1/&gt;print them out for checking.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T073929Z" creationid="Vasee" creationdate="20180509T073929Z">
+        <seg>Pokud máte překlad dokončen a jste připraveni práci zkontrolovat, můžete přeložené soubory otevřít v &lt;f0&gt;/target&lt;/f0&gt; ve vašem prohlížeči a vše zkontrolovat. Přeložený dokument si můžete také pro kontrolu &lt;t1/&gt;vytisknout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When you are translating from HTML, you will see a lot of codes that do not need to be translated, particularly at the beginning of each file.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T071858Z" creationid="Vasee" creationdate="20180509T071858Z">
