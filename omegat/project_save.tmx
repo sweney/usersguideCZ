@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;/f0&gt;This file will be of limited practical help to you during translation, but it serves to show you how the glossary terms are displayed to you in OmegaT when they occur: immediately in the OmegaT glossary pane.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T123054Z" creationid="Patrik" creationdate="20180509T123054Z">
+        <seg>&lt;/f0&gt;Tento soubor pro vás nebude příliš užitečný při samotném překladu, ale ukazuje jak jsou termíny z glosáře zobrazeny když se při používání OmegaT objeví, to jest v oknu glosáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T073332Z" creationid="Vasee" creationdate="20180509T073332Z">
@@ -1426,6 +1434,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Sweney" changedate="20180409T073210Z" creationid="Sweney" creationdate="20180409T073210Z">
         <seg>Obsah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Terms and their translations will appear when you reach a segment containing them.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T124005Z" creationid="Patrik" creationdate="20180509T124005Z">
+        <seg>Temíny a jejich překlady se zobrazí, když se vyskytnou v určitém segmentu.</seg>
       </tuv>
     </tu>
     <tu>
