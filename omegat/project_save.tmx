@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thus, if your source document contains the words &lt;f0&gt;ein Mensch,&lt;/f0&gt; a glossary that has the source text as &lt;f1&gt;der Mensch &lt;/f1&gt;will not find it; use &lt;f2&gt;Mensch&lt;/f2&gt; for the glossary instead.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T130518Z" creationid="Patrik" creationdate="20180509T130518Z">
+        <seg>Proto, pokud váš dokument obsahuje termín &lt;f0&gt;ein Mensch,&lt;/f0&gt; glosář který má tento termín zapsán jako&lt;f1&gt;der Mensch &lt;/f1&gt;jej nebude moci nalézt. V glosáři tedy použijte termín.&lt;f2&gt;Mensch&lt;/f2&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To create a project in OmegaT, select Project, then click New.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105029Z" creationid="Marie" creationdate="20180415T105029Z">
