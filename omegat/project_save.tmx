@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wild card characters are not accepted.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T130145Z" creationid="Patrik" creationdate="20180509T130145Z">
+        <seg>Náhodné znaky nejsou přípustné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With heavily tagged HTML text, you may find it convenient to keep the source text open at the same time and to toggle between the two (Alt+tab) in order to be able to see more quickly what text actually has to be translated.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T072956Z" creationid="Vasee" creationdate="20180509T072956Z">
