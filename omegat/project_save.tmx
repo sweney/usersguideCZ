@@ -1694,6 +1694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When you are translating from HTML, you will see a lot of codes that do not need to be translated, particularly at the beginning of each file.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T071858Z" creationid="Vasee" creationdate="20180509T071858Z">
+        <seg>Zejména na začátku každého souboru narazíte při překládání z HTML na plno kódů, které není nutné překládat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When/after downloading the zip file, place it in a suitable folder, e.g., for Windows, &lt;s0/&gt;C:\Program Files.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091226Z" creationid="Štefan" creationdate="20180426T091226Z">
