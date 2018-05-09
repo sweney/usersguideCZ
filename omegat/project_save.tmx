@@ -1248,8 +1248,8 @@
       <tuv lang="EN-US">
         <seg>Review Step &lt;f0&gt;6.A.1&lt;/f0&gt; on handling tags.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T072412Z" creationid="Vasee" creationdate="20180509T072412Z">
-        <seg>Pro práci s tagy se podívejte na krok &lt;f0&gt;6.A.1&lt;/f0&gt;.</seg>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T072520Z" creationid="Vasee" creationdate="20180509T072412Z">
+        <seg>V kapitole &lt;f0&gt;6.A.1&lt;/f0&gt; najdete informace, jak s tagy pracovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1746,6 +1746,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T071359Z" creationid="Vasee" creationdate="20180509T071359Z">
         <seg>Wikipedia podléhá neustálým změnám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With heavily tagged HTML text, you may find it convenient to keep the source text open at the same time and to toggle between the two (Alt+tab) in order to be able to see more quickly what text actually has to be translated.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T072956Z" creationid="Vasee" creationdate="20180509T072956Z">
+        <seg>Při práci s HTML textem, který obsahuje velké množství tagů, bude lepší, když si necháte otevřený zdrojový text. Díky tomu budete moci rychle zjistit, jestli je daný segment nutný přeložit (využijte Alt+tab).</seg>
       </tuv>
     </tu>
     <tu>
