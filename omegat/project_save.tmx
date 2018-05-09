@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before beginning translating, you placed a glossary file in the &lt;f0&gt;/glossary&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T120920Z" creationid="Patrik" creationdate="20180509T120920Z">
+        <seg>Předtím, než začnete překládat, umístěte soubor glosáře do složky&lt;f0&gt;/glossary&lt;/f0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Beginners</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052946Z" creationid="Vasee" creationdate="20180408T052946Z">
@@ -754,6 +762,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180418T124824Z" creationid="jan_fusik" creationdate="20180418T124824Z">
         <seg>francouzština - angličtina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glossary files are simply plain-text files containing two or three columns of terms delimited by tabs.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T121017Z" creationid="Patrik" creationdate="20180509T121017Z">
+        <seg>Soubory glosáře jsou textové soubory, které obsahují dva až tři sloupce textu ohraničené tabulkou.</seg>
       </tuv>
     </tu>
     <tu>
