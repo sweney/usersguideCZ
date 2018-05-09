@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For the purpose of this project, a glossary (.txt) file has been created for you for each language combination.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T122850Z" creationid="Patrik" creationdate="20180509T122850Z">
+        <seg>Pro účely tohoto projektu byl vytvořen soubor (.txt) glosáře pro každou jazykovou mutaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For the purposes of this tutorial, we assume that you will be using a Windows operating system.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T181447Z" creationid="jan_fusik" creationdate="20180425T181447Z">
@@ -1834,6 +1842,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100111Z" creationid="Marie" creationdate="20180412T100031Z">
         <seg>Teď jste připraveni dodat svou práci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can also add further glossary files of your own.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T121809Z" creationid="Patrik" creationdate="20180509T121809Z">
+        <seg>Můžete také přidávat své vlastní soubory glosáře..</seg>
       </tuv>
     </tu>
     <tu>
