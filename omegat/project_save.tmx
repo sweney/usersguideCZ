@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(See User’s Manual for how to set up a glossary.)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T121140Z" creationid="Patrik" creationdate="20180509T121140Z">
+        <seg>Pro postup při vytvoření glosáře vyhledejte příslušnou sekci v uživatelské příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>18</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065207Z" creationid="Turih" creationdate="20180411T065207Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095118Z" creationid="Marie" creationdate="20180412T094818Z">
         <seg>&lt;f0&gt;Poznámka: Poškozené nebo chybějící tagy ve formátech XML, jako OpenOffice.org, pravděpodobně nepůjdou ve výstupním souboru vůbec otevřít.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;OmegaT creates an empty default glossary file for a project when the project is first created.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180509T121741Z" creationid="Patrik" creationdate="20180509T121741Z">
+        <seg>&lt;f0&gt;Při vytvoření nového projektu, OmegaT automaticky vytvoří prázdný soubor glosáře.</seg>
       </tuv>
     </tu>
     <tu>
