@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you view these files in your browser on your PC, they will differ slightly in appearance from the pages on the Internet.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T071105Z" creationid="Vasee" creationdate="20180509T071105Z">
+        <seg>Pokud se na tyto soubory podíváte v prohlížeči na svém počítači, tak si všimnete, že se vzhledem mírně liší od stránek na internetu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you wish to change the text in a segment within the current project which is displayed in the Text Search window, double-click on it and OmegaT will take you to the segment concerned.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T165016Z" creationid="SazimaR" creationdate="20180505T165016Z">
