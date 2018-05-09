@@ -846,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In many cases, whole segments (“sentences”), such as web links, can be left as they are.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T071948Z" creationid="Vasee" creationdate="20180509T071948Z">
+        <seg>V mnoha případech mohou být celé segmenty ("věty"), jako například jsou webové odkazy, ponechány beze změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the case of OmegaT, the source is displayed above the target text of the active segment, facilitating comparison:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091444Z" creationid="Štefan" creationdate="20180426T091444Z">
@@ -1306,6 +1314,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100416Z" creationid="Marie" creationdate="20180412T100416Z">
         <seg>Nastavte jej tak jako jste nastavili &lt;f1&gt;Můj Projekt-1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Simply click through these by pressing Enter to confirm that the target is to remain the same.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T072035Z" creationid="Vasee" creationdate="20180509T072035Z">
+        <seg>Jednoduše nimi proklikejte stisknutím tlačítka Enter pro potvrzení, že cílový segment zůstane stejný.</seg>
       </tuv>
     </tu>
     <tu>
