@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>HTML is generally very tolerant of corrupted or missing tags; the result is likely to be a file which will open, but with unexpected or undesired formatting results.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T072205Z" creationid="Vasee" creationdate="20180509T072205Z">
+        <seg>HTML je obecně velmi tolerantní k neplatným nebo chybějícím tagům. Výsledek je pak soubor, který se otevře, ale budou v něm neočekávané nebo nechtěné formátovací nedostatky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Handling tags</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100308Z" creationid="Turih" creationdate="20180411T070206Z">
@@ -1234,6 +1242,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200328Z" creationid="Vasee" creationdate="20180409T053211Z">
         <seg>Týká se OmegaT verze 3.0.8_2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Review Step &lt;f0&gt;6.A.1&lt;/f0&gt; on handling tags.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T072412Z" creationid="Vasee" creationdate="20180509T072412Z">
+        <seg>Pro práci s tagy se podívejte na krok &lt;f0&gt;6.A.1&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
