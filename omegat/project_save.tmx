@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T073332Z" creationid="Vasee" creationdate="20180509T073332Z">
+        <seg>&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;df0&gt;&lt;di1/&gt;&lt;s2&gt;create_new&lt;/s2&gt;&lt;/df0&gt;&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T110159Z" creationid="Marie" creationdate="20180415T110159Z">
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095615Z" creationid="Marie" creationdate="20180412T095321Z">
         <seg>Přeložené dokumenty jsou automaticky vygenerovány v jejich původním formátu ve složce &lt;f0&gt;/target &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The windows in the above screenshot have been reduced in size in order to show the idea of keeping OmegaT and the source text (in your browser) open at the same time.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T073736Z" creationid="Vasee" creationdate="20180509T073736Z">
+        <seg>Okna na snímku obrazovky výše byla zmenšena, abychom si znázornili, jak zároveň pracovat s nástrojem OmegaT a se zdrojovým textem (v prohlížeči).</seg>
       </tuv>
     </tu>
     <tu>
