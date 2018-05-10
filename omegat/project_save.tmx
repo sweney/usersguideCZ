@@ -488,8 +488,8 @@
       <tuv lang="EN-US">
         <seg>CAT tools allow for greater consistency of translation, including when more than one translator is working on a job.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T075803Z" creationid="bures" creationdate="20180510T075803Z">
-        <seg>CAT nástroje napomáhají uržení konzistentního překladu, i když na zakázce pracují více, než jeden překladatel.</seg>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T075931Z" creationid="bures" creationdate="20180510T075803Z">
+        <seg>CAT nástroje napomáhají udržet konzistenci překladu, i když na zakázce pracují více, než jeden překladatel.</seg>
       </tuv>
     </tu>
     <tu>
