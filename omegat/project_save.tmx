@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAT tools allow for greater consistency of translation, including when more than one translator is working on a job.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T075803Z" creationid="bures" creationdate="20180510T075803Z">
+        <seg>CAT nástroje napomáhají uržení konzistentního překladu, i když na zakázce pracují více, než jeden překladatel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>CAT tools range in price from free (OmegaT) to $2,500 or more.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180503T100307Z" creationid="jan_fusik" creationdate="20180503T100307Z">
@@ -754,6 +762,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T071723Z" creationid="Turih" creationdate="20180411T070731Z">
         <seg>Závěrečná korektura, opravy a doručení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, CAT tools reproduce the formatting of the source document.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T074831Z" creationid="bures" creationdate="20180510T074831Z">
+        <seg>A nakonec, CAT nástroje zachovávají formátování původního dokumentu.</seg>
       </tuv>
     </tu>
     <tu>
