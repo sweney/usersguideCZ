@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A glossary function allows the user to enter source words and their translations into a glossary, which can be accessed while translating.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T073807Z" creationid="bures" creationdate="20180510T073807Z">
+        <seg>Glosář poskytuje možnost vytvoření seznamu původních slov a jejich překladů a jejich zobrazení při překladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A segment normally corresponds to one sentence.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095826Z" creationid="ivaparakova" creationdate="20180412T095826Z">
@@ -378,6 +386,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T100912Z" creationid="Patrik" creationdate="20180412T100912Z">
         <seg>Všechny soubory použité k překladům v tomto tutorialu jsou z Wikipedie; některé projekty sestávají z více než jednoho souboru,abyste si mohli vyzkoušet použitelnost OmegaT pro takto strukturované dokumenty .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T073649Z" creationid="bures" creationdate="20180510T073633Z">
+        <seg>Ještě k tomu:</seg>
       </tuv>
     </tu>
     <tu>
