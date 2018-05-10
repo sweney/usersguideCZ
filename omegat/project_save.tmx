@@ -480,8 +480,8 @@
       <tuv lang="EN-US">
         <seg>As with the glossary function, you can use keyboard shortcuts to copy and paste content from the Text Search window into the active translation segment.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T164904Z" creationid="SazimaR" creationdate="20180505T164250Z">
-        <seg>Stejně jako u slovníkové funkce můžete pomocí klávesových zkratek zkopírovat a vložit obsah z okna pro vyhledávání textu do aktivního překládaného segmentu.</seg>
+      <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180510T102140Z" creationid="SazimaR" creationdate="20180505T164250Z">
+        <seg>Stejně jako u funkce slovníku můžete pomocí klávesových zkratek zkopírovat a vložit obsah z okna pro vyhledávání textu do aktivního překládaného segmentu.</seg>
       </tuv>
     </tu>
     <tu>
