@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is very useful for 1) making sure you don’t skip text; 2) checking your work; and 3) putting both source and target text in a font and size that are comfortable for you.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T082729Z" creationid="bures" creationdate="20180510T082729Z">
+        <seg>Tahle funkce je velice užitežná pro: 1) zajištění překladu všech segmentů; 2) kontrolu; a 3) přizpůsobení písma při překládání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those interested may consult the User‘s Manual and the users' group on Yahoo.The more recent versions of OmegaT automatically incorporate a “tokenizer” function, which allows the system to recognize inflected forms of a word.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="SazimaR" changedate="20180505T162609Z" creationid="SazimaR" creationdate="20180505T162609Z">
