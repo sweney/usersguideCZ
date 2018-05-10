@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T100441Z" creationid="Pan Václav" creationdate="20180510T100441Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>18</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065207Z" creationid="Turih" creationdate="20180411T065207Z">
@@ -62,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T100450Z" creationid="Pan Václav" creationdate="20180510T100450Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>3</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Martina" changedate="20180503T100637Z" creationid="Vasee" creationdate="20180408T052933Z">
         <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T100424Z" creationid="Pan Václav" creationdate="20180510T100424Z">
+        <seg>5</seg>
       </tuv>
     </tu>
     <tu>
