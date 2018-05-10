@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_r10376" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -386,6 +386,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T104106Z" creationid="Marie" creationdate="20180415T100332Z">
         <seg>Příkladem je vytvořit složku "slovníky" v Program Files (Start &gt; Počítač &gt; &lt;s1/&gt;Místní disk (C:) &gt; Program Files &gt; pravé tlačítko &gt; Nová složka, nazvěte ji "slovníky.") Pak v menu OmegaT klikněte na Možnosti &gt; Kontrola pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Another useful source of information is &lt;f0&gt;www.omegat.org/en/documentation.php&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T072719Z" creationid="bures" creationdate="20180510T072719Z">
+        <seg>Dalším užitečným zdrojem informací je &lt;f0&gt;http://omegat.org/documentation&lt;/f0&gt; (anglicky)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1690,6 +1698,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093912Z" creationid="Vasee" creationdate="20180411T093912Z">
         <seg>Všechny jsou prázdné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document is intended for translators who are not experienced with Computer Assisted Translation (CAT) tools, and discusses only the basics.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T072551Z" creationid="bures" creationdate="20180510T072551Z">
+        <seg>Tento manuál je určen překladatelům, kteří nemají zkušenosti s nástroji počítačem podporovaného překladu (CAT)a z tohoto důvodu se věnuje pouze základům.</seg>
       </tuv>
     </tu>
     <tu>
