@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A search function scans previously translated material (either in a document in the present project, or in a translation memory from a previous project), so that the user can see how a word or phrase was previously translated.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T080640Z" creationid="bures" creationdate="20180510T080640Z">
+        <seg>Funkce hledání prochází už přeložené dokumenty (jak v dokumentech v současném projektu, tak v překladových pamětích z předchozích projektů) a uživateli ukazuje, jak bylo slovo nebo fráze v minulosti přeložena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A segment normally corresponds to one sentence.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095826Z" creationid="ivaparakova" creationdate="20180412T095826Z">
