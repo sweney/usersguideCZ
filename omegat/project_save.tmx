@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_r10376" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -968,8 +968,8 @@
       <tuv lang="EN-US">
         <seg>If you view these files in your browser on your PC, they will differ slightly in appearance from the pages on the Internet.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T071105Z" creationid="Vasee" creationdate="20180509T071105Z">
-        <seg>Pokud se na tyto soubory podíváte v prohlížeči na svém počítači, tak si všimnete, že se vzhledem mírně liší od stránek na internetu.</seg>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T093554Z" creationid="Vasee" creationdate="20180509T071105Z">
+        <seg>Pokud se na tyto soubory podíváte v prohlížeči na svém počítači, všimnete si, že se vzhledem mírně liší od stránek na internetu.</seg>
       </tuv>
     </tu>
     <tu>
