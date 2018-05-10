@@ -936,8 +936,8 @@
       <tuv lang="EN-US">
         <seg>In many cases, whole segments (“sentences”), such as web links, can be left as they are.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T071948Z" creationid="Vasee" creationdate="20180509T071948Z">
-        <seg>V mnoha případech mohou být celé segmenty ("věty"), jako například jsou webové odkazy, ponechány beze změny.</seg>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T052946Z" creationid="Vasee" creationdate="20180509T071948Z">
+        <seg>V mnoha případech mohou být celé segmenty („věty“), jako například jsou webové odkazy, ponechány beze změny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,8 +1600,8 @@
       <tuv lang="EN-US">
         <seg>The pages listed here have been selected as suitable examples (and the “legacy” files have been created to correspond to them), but changes to them may make them less suitable, and they may even disappear or move elsewhere.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T071719Z" creationid="Vasee" creationdate="20180509T071719Z">
-        <seg>Stránky zde byly vybrány jako vhodné příklady (a byly k nim vytvořeny odpovídající "legacy" soubory), ale jejich změna je může učinit nevhodné, a dokonce mohou zmizet nebo se přesunout jinam.</seg>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T052958Z" creationid="Vasee" creationdate="20180509T071719Z">
+        <seg>Stránky zde byly vybrány jako vhodné příklady (a byly k nim vytvořeny odpovídající „legacy“ soubory), ale jejich změna je může učinit nevhodné, a dokonce mohou zmizet nebo se přesunout jinam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2070,6 +2070,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Kitchen_appliance&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T052636Z" creationid="Pan Václav" creationdate="20180510T052636Z">
+        <seg>en.wikipedia.org/wiki/Kitchen_appliance&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Major_appliance</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T052637Z" creationid="Pan Václav" creationdate="20180510T052637Z">
+        <seg>en.wikipedia.org/wiki/Major_appliance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en.wikipedia.org/wiki/Old_Harry_Rocks&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193505Z" creationid="R2D2" creationdate="20180411T193505Z">
@@ -2126,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Rye&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T052646Z" creationid="Pan Václav" creationdate="20180510T052646Z">
+        <seg>en.wikipedia.org/wiki/Rye&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>en.wikipedia.org/wiki/Share_%28finance%29&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193449Z" creationid="R2D2" creationdate="20180411T193449Z">
@@ -2138,6 +2162,30 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193451Z" creationid="R2D2" creationdate="20180411T193451Z">
         <seg>en.wikipedia.org/wiki/Shareholder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Skye</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T052654Z" creationid="Pan Václav" creationdate="20180510T052654Z">
+        <seg>en.wikipedia.org/wiki/Skye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Small_appliance&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T052635Z" creationid="Pan Václav" creationdate="20180510T052635Z">
+        <seg>en.wikipedia.org/wiki/Small_appliance&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Sorghum</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180510T052647Z" creationid="Pan Václav" creationdate="20180510T052647Z">
+        <seg>en.wikipedia.org/wiki/Sorghum</seg>
       </tuv>
     </tu>
     <tu>
