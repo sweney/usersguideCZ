@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A CAT tool, as the term is generally used by translators, refers to a software program that creates a “translation memory” (TM) of a translated document, which can then be used to facilitate the translation of future documents that have significant similarity to the first.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T073121Z" creationid="bures" creationdate="20180510T073121Z">
+        <seg>CAT nástroj, jak jim říkají překladatelé, je program, který z překládaného dokumentu vytvoří "překladovou pamět" (TM), kterou je možné použít jako pomůcku při překladu podobných dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of the license is included in the section entitled “GNU Free Documentation License.”</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195825Z" creationid="Pan Václav" creationdate="20180409T052852Z">
@@ -1702,6 +1710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This aspect makes it especially useful for repetitive material.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T073620Z" creationid="bures" creationdate="20180510T073620Z">
+        <seg>Tato funkce je velice užitečná pro opakující-se výrazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This document is intended for translators who are not experienced with Computer Assisted Translation (CAT) tools, and discusses only the basics.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180510T072758Z" creationid="bures" creationdate="20180510T072551Z">
@@ -1840,8 +1856,8 @@
       <tuv lang="EN-US">
         <seg>What is a CAT tool and why are they useful?</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200916Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
-        <seg>Co to jsou CAT nástroje a jak mi mohou pomoct?</seg>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180510T072932Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
+        <seg>Co jsou CAT nástroje a jak mi mohou pomoct?</seg>
       </tuv>
     </tu>
     <tu>
