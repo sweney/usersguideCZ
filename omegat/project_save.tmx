@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_1_r10375" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="EN-US">
         <seg>Be warned that the documentation may be a little out of date, owing to the pace at which OmegaT is being developed.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093058Z" creationid="Marie" creationdate="20180415T093058Z">
-        <seg>Buďte na pozoru, že dokumentace může být trochu zastaralá kvůli rychlosti jakým se OmegaT vyvíjí.</seg>
+      <tuv lang="cs-CZ" changeid="sweney" changedate="20180510T104524Z" creationid="Marie" creationdate="20180415T093058Z">
+        <seg>Mějte na paměti, že dokumentace může být trochu zastaralá kvůli rychlosti jakou se OmegaT vyvíjí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,8 +936,8 @@
       <tuv lang="EN-US">
         <seg>If the Editing pane is empty, the language of your Windows installation is probably not English and OmegaT does not have an Instant Start tutorial in your language.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="sweney" changedate="20180418T201504Z" creationid="Marie" creationdate="20180415T092802Z">
-        <seg>Pokud je tabulka Editor prázdná, jazyk Vaší Windows instalace nejspíš není angličtina, a OmegaT nemá návod Rychlý start ve vašem jazyce.</seg>
+      <tuv lang="cs-CZ" changeid="sweney" changedate="20180510T104300Z" creationid="Marie" creationdate="20180415T092802Z">
+        <seg>Pokud je tabulka Editor prázdná, jazyk vaší Windows instalace nejspíš není angličtina, a OmegaT nemá návod Rychlý start ve vašem jazyce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -968,8 +968,8 @@
       <tuv lang="EN-US">
         <seg>If you can’t see all the main panes, drag the borders between them across your screen until they are arranged approximately as shown below.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091325Z" creationid="Štefan" creationdate="20180426T091325Z">
-        <seg>Pokud nevidíte všechny hlavní panely, upravujte potažením hranice mezi nimi, dokud nebudou seřazeny přibližně jako na ilustraci níže.</seg>
+      <tuv lang="cs-CZ" changeid="sweney" changedate="20180510T104239Z" creationid="Štefan" creationdate="20180426T091325Z">
+        <seg>Pokud nevidíte všechny hlavní panely, upravte hranici mezi nimi přetažením, dokud nebudou seřazeny přibližně jako na ilustraci níže.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1912,8 +1912,8 @@
       <tuv lang="EN-US">
         <seg>Volunteers to translate the current documentation are welcome!</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093151Z" creationid="Marie" creationdate="20180415T093151Z">
-        <seg>Dobrovolníci kteří by přeložili současnou dokumentaci jsou vítáni!</seg>
+      <tuv lang="cs-CZ" changeid="sweney" changedate="20180510T104558Z" creationid="Marie" creationdate="20180415T093151Z">
+        <seg>Dobrovolníci, kteří by přeložili současnou dokumentaci jsou vítáni!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,8 +2032,8 @@
       <tuv lang="EN-US">
         <seg>You will need a place to store your dictionary or dictionaries for your target language’s spell checker (this is &lt;f0&gt;not&lt;/f0&gt; the place for bilingual dictionaries).</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T093513Z" creationid="Marie" creationdate="20180415T093513Z">
-        <seg>Budete potřebovat místo k uložení slovníku nebo slovníků pro kontrolu pravopisu ve vašem cílovém jazyku (toto &lt;f0&gt;není&lt;/f0&gt; místem pro bilingvní slovníky).</seg>
+      <tuv lang="cs-CZ" changeid="sweney" changedate="20180510T104904Z" creationid="Marie" creationdate="20180415T093513Z">
+        <seg>Budete potřebovat úložiště pro slovník nebo slovníky pro kontrolu pravopisu ve vašem cílovém jazyku (toto&lt;f0&gt;není&lt;/f0&gt; úložiště pro bilingvní slovníky).</seg>
       </tuv>
     </tu>
     <tu>
