@@ -1536,8 +1536,8 @@
       <tuv lang="EN-US">
         <seg>Since the legacy .tmx files in the &lt;f1&gt;/tm&lt;/f1&gt; folder are the product of previous translation jobs, you will not normally have any useful legacy .tmx files to call upon until you have completed a few jobs in OmegaT, and placed them into the &lt;f2&gt;/tm&lt;/f2&gt; folder of your new job.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T174859Z" creationid="ivaparakova" creationdate="20180512T174859Z">
-        <seg>Vzhledem k tomu, starší .tmx soubory ve složce &amp;lt;f1&amp;gt;/tm&amp;lt;/f1&amp;gt; jsou produktem předchozí překlady, nebudete mít normálně všechny užitečné starší .tmx soubory vyzvat, dokud jste dokončili několik pracovních míst v OmegaT a umístil je do složky &amp;lt;f2&amp;gt;/tm&amp;lt;/f2&amp;gt; vašeho nové zaměstnání.Since the legacy .tmx files in the &lt;f1&gt;/tm&lt;/f1&gt; folder are the product of previous translation jobs, you will not normally have any useful legacy .tmx files to call upon until you have completed a few jobs in OmegaT, and placed them into the &lt;f2&gt;/tm&lt;/f2&gt; folder of your new job.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T175140Z" creationid="ivaparakova" creationdate="20180512T174859Z">
+        <seg>Vzhledem k tomu, že starší .tmx soubory ve složce &lt;f1&gt;/tm&lt;/f1&gt; jsou produktem předchozích překladů, nebudete mít žádné užitečné .tmx soubory, ze kterých byste mohli čerpat, dokud nedokončíte alespoň několik překladů v  vyzvat, OmegaT a umístíte je do složky  &lt;f2&gt;/tm&lt;/f2&gt; vašeho nové zaměstnání.Since the legacy .tmx files in the  folder are the product of previous translation jobs, you will not normally have any useful legacy .tmx files to call upon until you have completed a few jobs in OmegaT, and placed them into the folder of your new job.</seg>
       </tuv>
     </tu>
     <tu>
