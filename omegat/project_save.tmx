@@ -312,8 +312,8 @@
       <tuv lang="EN-US">
         <seg>&lt;f5&gt;Click “Install new dictionary” and you will be given a list of many possible dictionaries (&lt;/f5&gt;&lt;f6&gt;b&lt;/f6&gt;&lt;f7&gt;).</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T100724Z" creationid="Marie" creationdate="20180415T100724Z">
-        <seg>&lt;f5&gt;Klikněte na "Instalovat nový slovník" a dostanete list mnoha možných slovníků (&lt;/f5&gt;&lt;f6&gt;b&lt;/f6&gt;&lt;f7&gt;).</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T183831Z" creationid="Marie" creationdate="20180415T100724Z">
+        <seg>&lt;f5&gt;Klikněte na "Instalovat nový slovník" a dostanete seznam mnoha možných slovníků (&lt;/f5&gt;&lt;f6&gt;b&lt;/f6&gt;&lt;f7&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2120,8 +2120,8 @@
       <tuv lang="EN-US">
         <seg>You will need a place to store your dictionary or dictionaries for your target language’s spell checker (this is &lt;f0&gt;not&lt;/f0&gt; the place for bilingual dictionaries).</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="sweney" changedate="20180510T104904Z" creationid="Marie" creationdate="20180415T093513Z">
-        <seg>Budete potřebovat úložiště pro slovník nebo slovníky pro kontrolu pravopisu ve vašem cílovém jazyku (toto&lt;f0&gt;není&lt;/f0&gt; úložiště pro bilingvní slovníky).</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T183735Z" creationid="Marie" creationdate="20180415T093513Z">
+        <seg>Budete potřebovat úložiště pro slovník nebo slovníky pro kontrolu pravopisu ve vašem cílovém jazyce (toto&lt;f0&gt;není&lt;/f0&gt; úložiště pro bilingvní slovníky).</seg>
       </tuv>
     </tu>
     <tu>
