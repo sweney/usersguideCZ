@@ -952,8 +952,8 @@
       <tuv lang="EN-US">
         <seg>If after looking at the fuzzy match you decide that it is useful, you can paste it into the active segment at any point (Ctrl+I), or replace (overwrite) the active segment with it completely (Ctrl+R) and then modify it, or copy and paste parts of it into the active segment (Ctrl+C and Ctrl+V to copy and paste).</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T180037Z" creationid="ivaparakova" creationdate="20180512T180037Z">
-        <seg>Pokud se  rozhodnete, že je čátečná shoda užitečná, můžete ji kdykolic vložit do aktivního segmentu pomocí (Ctrl + I) nebo ji zcela nahradit (přepsat) (Ctrl + R) nebo ji zkopírujte a vložte do aktivního segmentu (Ctrl + C a Ctrl + V pro kopírování a vkládání).</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T181825Z" creationid="ivaparakova" creationdate="20180512T180037Z">
+        <seg>Pokud se  rozhodnete, že je čátečná shoda užitečná, můžete ji kdykoliv vložit do aktivního segmentu pomocí (Ctrl + I) nebo ji zcela nahradit (přepsat) oomocí (Ctrl + R) nebo ji zkopírovat a vložit do aktivního segmentu pomocí (Ctrl + C a Ctrl + V).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2072,8 +2072,8 @@
       <tuv lang="EN-US">
         <seg>With heavily tagged text, you are likely to find that OmegaT yields numerous spurious fuzzy matches in which only the tags are identical, and which are not therefore useful.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T180603Z" creationid="ivaparakova" creationdate="20180512T180455Z">
-        <seg>V silně naformátovaném textu vám OmegaT najde spoustu falešných částečných shod, jelikož se budou shodovat tagy. Takové částečné shody samozřejmě nejsou užitečné.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T181859Z" creationid="ivaparakova" creationdate="20180512T180455Z">
+        <seg>V silně naformátovaném textu vám OmegaT najde spoustu falešných částečných shod, jelikož se budou shodovat jejich tagy. Takové částečné shody samozřejmě nejsou užitečné.</seg>
       </tuv>
     </tu>
     <tu>
