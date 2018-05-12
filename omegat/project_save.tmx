@@ -1806,6 +1806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They may be within the current project (either in the text you are currently translating or, where a project comprises more than one source text, in another text within the same project), or they may be in the legacy .tmx file(s) which you placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T174835Z" creationid="ivaparakova" creationdate="20180512T174835Z">
+        <seg>Mohou být z aktuálního projektu (ať už z textu, který zrovna překládáte nebo pokud projekt obsahuje více než jeden zdrojový text, z dalšího textu v témže projektu), nebo mohou být ze starších souborů .tmx, které jste uložili do složky &lt;f0&gt;/tm&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This aspect makes it especially useful for repetitive material.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="bures" changedate="20180510T073620Z" creationid="bures" creationdate="20180510T073620Z">
@@ -2498,6 +2506,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101307Z" creationid="ivaparakova" creationdate="20180412T100757Z">
         <seg>„&lt;a0&gt;“ a „&lt;/a0&gt;“ nemusí ovšem vždy znamenat začátek a konec tučného textu. Kdyby slovo „to“ bylo ve zdrojovém textu kurzívou, nikoli tučné, byly by použity stejné tagy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Fuzzy matches” are segments with some degree of similarity to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T174237Z" creationid="ivaparakova" creationdate="20180512T174237Z">
+        <seg>"Částečné shody" jsou segmenty, které jsou podobné segmentům, které překládáte.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
