@@ -942,6 +942,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Here, the current segment shows a fuzzy match with a segment elsewhere in the project that has already been translated:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T175817Z" creationid="ivaparakova" creationdate="20180512T175817Z">
+        <seg>Aktuální segment zde ukazuje částečnou shodu se segmentem, který je ze stejného projektu a byl již přeložen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If after looking at the fuzzy match you decide that it is useful, you can paste it into the active segment at any point (Ctrl+I), or replace (overwrite) the active segment with it completely (Ctrl+R) and then modify it, or copy and paste parts of it into the active segment (Ctrl+C and Ctrl+V to copy and paste).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T180037Z" creationid="ivaparakova" creationdate="20180512T180037Z">
+        <seg>Pokud se  rozhodnete, že je čátečná shoda užitečná, můžete ji kdykolic vložit do aktivního segmentu pomocí (Ctrl + I) nebo ji zcela nahradit (přepsat) (Ctrl + R) nebo ji zkopírujte a vložte do aktivního segmentu (Ctrl + C a Ctrl + V pro kopírování a vkládání).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Editing pane is empty, the language of your Windows installation is probably not English and OmegaT does not have an Instant Start tutorial in your language.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="sweney" changedate="20180510T104300Z" creationid="Marie" creationdate="20180415T092802Z">
