@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eventually, you will encounter fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T173618Z" creationid="ivaparakova" creationdate="20180512T173618Z">
+        <seg>Časem narazíte i na částečné shody.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eventually, you will reach the end of the file you are translating.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Štefan" changedate="20180426T091428Z" creationid="Štefan" creationdate="20180426T091428Z">
@@ -1226,6 +1234,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Marie" changedate="20180415T105839Z" creationid="Marie" creationdate="20180415T105839Z">
         <seg>Přejděte na vhodný adresář k vytvoření projektu, např. hlavní &lt;t0/&gt;adresář, který používáte pro své překlady, nebo jej můžete umístit na Plochu pro dočasný snadný přístup, a později jej přesunete do Dokumentů, nebo do podobného úložiště.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally, it may be some time before you encounter useful fuzzy matches, but the “legacy” translation memory file has been provided for you in this tutorial to ensure that you will find at least some.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T173653Z" creationid="ivaparakova" creationdate="20180512T173653Z">
+        <seg>Většinou chvíli trvá, předtím, než se setkáte s užitečnými fuzzymi shody, ale v tomto výukovém programu vám byl poskytnut překladatelský paměťový soubor "starší", abyste se ujistili, že najdete alespoň některé..</seg>
       </tuv>
     </tu>
     <tu>
@@ -1888,8 +1904,8 @@
       <tuv lang="EN-US">
         <seg>Translation memory (fuzzy match function)</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Turih" changedate="20180412T093916Z" creationid="Turih" creationdate="20180411T072325Z">
-        <seg>Překladová paměť (funkce „Přibližné překlady“)</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T173557Z" creationid="Turih" creationdate="20180411T072325Z">
+        <seg>Překladová paměť (funkce „Částečné shody“)</seg>
       </tuv>
     </tu>
     <tu>
