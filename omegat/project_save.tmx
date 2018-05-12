@@ -832,8 +832,8 @@
       <tuv lang="EN-US">
         <seg>For details of the tag handling rules, refer to the User’s Manual.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101454Z" creationid="ivaparakova" creationdate="20180412T101454Z">
-        <seg>Podrobnosti o práci se značkami naleznete v uživatelské příručce.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T190005Z" creationid="ivaparakova" creationdate="20180412T101454Z">
+        <seg>Podrobnosti o práci se tagy naleznete v uživatelské příručce.</seg>
       </tuv>
     </tu>
     <tu>
