@@ -984,8 +984,8 @@
       <tuv lang="EN-US">
         <seg>If you prefer to read through the finished text on the screen, i.e., in your browser, toggle between the browser and OmegaT.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T172619Z" creationid="ivaparakova" creationdate="20180512T172504Z">
-        <seg>Pokud si chcete dokončený text přečíst na obrazovce ve svém prohlížeči, můžete přepínat mezi prohlížečem a OmegaT.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T173132Z" creationid="ivaparakova" creationdate="20180512T172504Z">
+        <seg>Pokud si chcete dokončený text přečíst na obrazovce ve vašem prohlížeči, můžete přepínat mezi prohlížečem a OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1952,8 +1952,8 @@
       <tuv lang="EN-US">
         <seg>When you are finished and ready to check your work, you can open the translated files in &lt;f0&gt;/target&lt;/f0&gt; in your browser and read through them, and/or &lt;t1/&gt;print them out for checking.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T074053Z" creationid="Vasee" creationdate="20180509T073929Z">
-        <seg>Pokud máte překlad dokončen a jste připraveni práci zkontrolovat, můžete přeložené soubory v &lt;f0&gt;/target&lt;/f0&gt; otevřít ve vašem prohlížeči a vše zkontrolovat. Přeložený dokument si můžete také pro kontrolu &lt;t1/&gt;vytisknout.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T172839Z" creationid="Vasee" creationdate="20180509T073929Z">
+        <seg>Pokud máte překlad dokončen a jste připraveni práci zkontrolovat, můžete přeložené soubory v &lt;f0&gt;/target&lt;/f0&gt; otevřít ve svém prohlížeči a vše zkontrolovat. Přeložený dokument si můžete také pro kontrolu &lt;t1/&gt;vytisknout.</seg>
       </tuv>
     </tu>
     <tu>
