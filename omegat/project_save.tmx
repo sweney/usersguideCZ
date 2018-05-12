@@ -1240,8 +1240,8 @@
       <tuv lang="EN-US">
         <seg>Normally, it may be some time before you encounter useful fuzzy matches, but the “legacy” translation memory file has been provided for you in this tutorial to ensure that you will find at least some.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T174140Z" creationid="ivaparakova" creationdate="20180512T173653Z">
-        <seg>Většinou chvíli trvá, než se vytvoří užitečné částečné shody, ale v rámci manuálu vám poskytneme pomocnou překladovou paměť, abyste měli alespoň nějaké.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T175229Z" creationid="ivaparakova" creationdate="20180512T173653Z">
+        <seg>Většinou chvíli trvá, než se vytvoří užitečné částečné shody, ale v rámci manuálu vám poskytneme cvičnou překladovou paměť, abyste měli alespoň nějaké.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1536,8 +1536,8 @@
       <tuv lang="EN-US">
         <seg>Since the legacy .tmx files in the &lt;f1&gt;/tm&lt;/f1&gt; folder are the product of previous translation jobs, you will not normally have any useful legacy .tmx files to call upon until you have completed a few jobs in OmegaT, and placed them into the &lt;f2&gt;/tm&lt;/f2&gt; folder of your new job.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T175140Z" creationid="ivaparakova" creationdate="20180512T174859Z">
-        <seg>Vzhledem k tomu, že starší .tmx soubory ve složce &lt;f1&gt;/tm&lt;/f1&gt; jsou produktem předchozích překladů, nebudete mít žádné užitečné .tmx soubory, ze kterých byste mohli čerpat, dokud nedokončíte alespoň několik překladů v  vyzvat, OmegaT a umístíte je do složky  &lt;f2&gt;/tm&lt;/f2&gt; vašeho nové zaměstnání.Since the legacy .tmx files in the  folder are the product of previous translation jobs, you will not normally have any useful legacy .tmx files to call upon until you have completed a few jobs in OmegaT, and placed them into the folder of your new job.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T175501Z" creationid="ivaparakova" creationdate="20180512T174859Z">
+        <seg>Vzhledem k tomu, že starší .tmx soubory ve složce &lt;f1&gt;/tm&lt;/f1&gt; jsou produktem předchozích překladů, nebudete mít žádné užitečné .tmx soubory, ze kterých byste mohli čerpat, dokud nedokončíte alespoň několik překladů v OmegaT a neumístíte je do složky  &lt;f2&gt;/tm&lt;/f2&gt; vašeho nového projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1816,8 +1816,8 @@
       <tuv lang="EN-US">
         <seg>They may be within the current project (either in the text you are currently translating or, where a project comprises more than one source text, in another text within the same project), or they may be in the legacy .tmx file(s) which you placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T174909Z" creationid="ivaparakova" creationdate="20180512T174835Z">
-        <seg>Mohou být z aktuálního projektu (ať už z textu, který zrovna překládáte nebo pokud projekt obsahuje více než jeden zdrojový text, z dalšího textu v témže projektu), nebo mohou být ze starších .tmx souborů, které jste uložili do složky &lt;f0&gt;/tm&lt;/f0&gt;.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T175347Z" creationid="ivaparakova" creationdate="20180512T174835Z">
+        <seg>Mohou být z aktuálního projektu (ať už z textu, který zrovna překládáte, nebo pokud projekt obsahuje více než jeden zdrojový text, z dalšího textu v témže projektu), nebo mohou být ze starších .tmx souborů, které jste umístili do složky &lt;f0&gt;/tm&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2520,8 +2520,8 @@
       <tuv lang="EN-US">
         <seg>“Fuzzy matches” are segments with some degree of similarity to the segment you are translating.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T174237Z" creationid="ivaparakova" creationdate="20180512T174237Z">
-        <seg>"Částečné shody" jsou segmenty, které jsou podobné segmentům, které překládáte.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T175300Z" creationid="ivaparakova" creationdate="20180512T174237Z">
+        <seg>"Částečné shody" jsou segmenty, které jsou částečně podobné segmentům, které překládáte.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
