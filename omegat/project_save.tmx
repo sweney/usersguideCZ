@@ -1352,8 +1352,8 @@
       <tuv lang="EN-US">
         <seg>One solution to this problem is Codezapper (&lt;a2&gt;http://asap-traduction.com/CodeZapper&lt;/a2&gt;), which can eliminate these, while keeping the tags you actually need; or you can use the Remove Tags feature of OmegaT itself to remove &lt;f3&gt;all&lt;/f3&gt; tags.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101344Z" creationid="ivaparakova" creationdate="20180412T101035Z">
-        <seg>Jedním z řešení tohoto problému je Codezapper (&lt;a2&gt;http://asap-traduction.com/CodeZapper&lt;/a2&gt;), který eliminuje zbytečné tagy a zachová ty, které skutečně potřebujete. Nebo můžete použít funkci Odstranit tagy v OmegaT, a odebrat tak všechny tagy.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T191056Z" creationid="ivaparakova" creationdate="20180412T101035Z">
+        <seg>Jedním z řešení tohoto problému je Codezapper (&lt;a2&gt;http://asap-traduction.com/CodeZapper&lt;/a2&gt;), který eliminuje zbytečné tagy a zachová ty, které skutečně potřebujete. Nebo můžete použít funkci Odstranit tagy v OmegaT, a odebrat tak  &lt;f3&gt;všechny&lt;/f3&gt; tagy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,8 +1376,8 @@
       <tuv lang="EN-US">
         <seg>Otherwise, you may risk corrupting your final document and preventing it from being opened.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101441Z" creationid="ivaparakova" creationdate="20180412T101441Z">
-        <seg>V opačném případě riskujete, že si poškodíte konečný dokument a nepůjde otevřít.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T191136Z" creationid="ivaparakova" creationdate="20180412T101441Z">
+        <seg>V opačném případě riskujete, že si poškodíte finální dokument a nepůjde otevřít.</seg>
       </tuv>
     </tu>
     <tu>
