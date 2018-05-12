@@ -1968,8 +1968,8 @@
       <tuv lang="EN-US">
         <seg>When you find errors in the text in the browser window, make the corresponding changes within OmegaT.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T172826Z" creationid="ivaparakova" creationdate="20180512T172826Z">
-        <seg>Pokud najdete v prohlížeči v textu chyby, opravte je přímo v OmegaT.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T173536Z" creationid="ivaparakova" creationdate="20180512T172826Z">
+        <seg>Pokud najdete v textu otevřeném v prohlížeči chyby, opravte je přímo v OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
