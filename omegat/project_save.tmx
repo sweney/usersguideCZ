@@ -1880,8 +1880,8 @@
       <tuv lang="EN-US">
         <seg>This is convenient with heavily tagged (formatted) text, since it is easier to retain the tags undamaged by simply replacing the text between them.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100146Z" creationid="ivaparakova" creationdate="20180412T100146Z">
-        <seg>To je užitečné, pokud máte hodně naformátovaný text. Je snazší zachovat značky a jednoduše nahradit text mezi nimi.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T190917Z" creationid="ivaparakova" creationdate="20180412T100146Z">
+        <seg>To je užitečné, pokud máte hodně naformátovaný text. Je snazší zachovat tagy a jednoduše nahradit text mezi nimi.</seg>
       </tuv>
     </tu>
     <tu>
