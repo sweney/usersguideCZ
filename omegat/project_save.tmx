@@ -1240,8 +1240,8 @@
       <tuv lang="EN-US">
         <seg>Normally, it may be some time before you encounter useful fuzzy matches, but the “legacy” translation memory file has been provided for you in this tutorial to ensure that you will find at least some.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T173653Z" creationid="ivaparakova" creationdate="20180512T173653Z">
-        <seg>Většinou chvíli trvá, předtím, než se setkáte s užitečnými fuzzymi shody, ale v tomto výukovém programu vám byl poskytnut překladatelský paměťový soubor "starší", abyste se ujistili, že najdete alespoň některé..</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T174140Z" creationid="ivaparakova" creationdate="20180512T173653Z">
+        <seg>Většinou chvíli trvá, než se vytvoří užitečné částečné shody, ale v rámci manuálu vám poskytneme pomocnou překladovou paměť, abyste měli alespoň nějaké.</seg>
       </tuv>
     </tu>
     <tu>
