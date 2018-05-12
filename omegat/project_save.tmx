@@ -1384,8 +1384,8 @@
       <tuv lang="EN-US">
         <seg>Owing to the pace at which OmegaT is being developed, the appearance of the screenshots and possibly some other information may have changed slightly.) &lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095751Z" creationid="ivaparakova" creationdate="20180412T095732Z">
-        <seg>Vzhledem k rychlosti, jakou je OmegaT vyvíjen se může vzhled screenshotu lišit a některé další vlastnosti mohou být jiné.) &lt;/f1&gt;</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T182242Z" creationid="ivaparakova" creationdate="20180412T095732Z">
+        <seg>Vzhledem k rychlosti, jakou je OmegaT vyvíjen se může vzhled vašeho programu od obrázku lišit a některé další vlastnosti mohou být jiné.) &lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2104,8 +2104,8 @@
       <tuv lang="EN-US">
         <seg>You type your translation into the field provided, confirm by hitting Enter, and so on.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095856Z" creationid="ivaparakova" creationdate="20180412T095856Z">
-        <seg>Napište váš překlad do příslušného pole, potvrďte stisknutím klávesy Enter a tak pokračujte dále.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T182302Z" creationid="ivaparakova" creationdate="20180412T095856Z">
+        <seg>Napište váš překlad do příslušného pole, potvrďte stisknutím klávesy Enter, a tak pokračujte dále.</seg>
       </tuv>
     </tu>
     <tu>
