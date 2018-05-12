@@ -984,8 +984,8 @@
       <tuv lang="EN-US">
         <seg>If you prefer to read through the finished text on the screen, i.e., in your browser, toggle between the browser and OmegaT.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T172504Z" creationid="ivaparakova" creationdate="20180512T172504Z">
-        <seg>Pokud si chcete dokončený text přečíst na obrazovce ve svém prohlížeči, můžete přepínat mezi prohlížečem a OmegaT..</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T172619Z" creationid="ivaparakova" creationdate="20180512T172504Z">
+        <seg>Pokud si chcete dokončený text přečíst na obrazovce ve svém prohlížeči, můžete přepínat mezi prohlížečem a OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1962,6 +1962,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180509T071858Z" creationid="Vasee" creationdate="20180509T071858Z">
         <seg>Zejména na začátku každého souboru narazíte při překládání z HTML na plno kódů, které není nutné překládat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you find errors in the text in the browser window, make the corresponding changes within OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T172826Z" creationid="ivaparakova" creationdate="20180512T172826Z">
+        <seg>Pokud najdete v prohlížeči v textu chyby, opravte je přímo v OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
