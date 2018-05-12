@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The legacy material provided for the purpose of this tutorial is intended to demonstrate the functions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T180225Z" creationid="ivaparakova" creationdate="20180512T180225Z">
+        <seg>Cvičná překladová paměť byla vytvořena pro výukové účely a je určena k demonstraci funkcí OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The on-screen download instructions should be self-explanatory.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="jan_fusik" changedate="20180425T181220Z" creationid="jan_fusik" creationdate="20180425T181220Z">
