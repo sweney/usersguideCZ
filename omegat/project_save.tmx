@@ -2072,8 +2072,8 @@
       <tuv lang="EN-US">
         <seg>With heavily tagged text, you are likely to find that OmegaT yields numerous spurious fuzzy matches in which only the tags are identical, and which are not therefore useful.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T181859Z" creationid="ivaparakova" creationdate="20180512T180455Z">
-        <seg>V silně naformátovaném textu vám OmegaT najde spoustu falešných částečných shod, jelikož se budou shodovat jejich tagy. Takové částečné shody samozřejmě nejsou užitečné.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T182719Z" creationid="ivaparakova" creationdate="20180512T180455Z">
+        <seg>V hodně naformátovaném textu vám OmegaT najde spoustu falešných částečných shod, jelikož se budou shodovat jejich tagy. Takové částečné shody samozřejmě nejsou užitečné.</seg>
       </tuv>
     </tu>
     <tu>
