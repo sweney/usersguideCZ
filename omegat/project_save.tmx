@@ -1320,8 +1320,8 @@
       <tuv lang="EN-US">
         <seg>OmegaT is an “inline” translation memory application, meaning that you see only one copy of the text; segments which have already been translated appear as such, otherwise the untranslated source text is displayed.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100018Z" creationid="ivaparakova" creationdate="20180412T095934Z">
-        <seg>OmegaT je „inline“ překladová pamětová aplikace, což znamená, že uvidíte pouze jednu kopii textu. Segmenty, které již byly přeloženy si samozřejmě můžete zobrazit, ale jinak se vám zobrazuje nepřeložený zdrojový text.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T190110Z" creationid="ivaparakova" creationdate="20180412T095934Z">
+        <seg>OmegaT je „inline“ překladová paměťová aplikace, což znamená, že uvidíte pouze jednu kopii textu. Segmenty, které již byly přeloženy si samozřejmě můžete zobrazit, ale jinak se vám zobrazuje nepřeložený zdrojový text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +1496,8 @@
       <tuv lang="EN-US">
         <seg>See User‘s Manual when you are ready for the fine points.)File &gt; Save As, name the file, and close it in .odt format.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095153Z" creationid="Pan Václav" creationdate="20180411T122302Z">
-        <seg>Pro více detailů se podívejte do uživatelské příručky.) Soubor &gt; Uložit jako, zadejte název souboru a uložte jej ve formátu .odt.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T190333Z" creationid="Pan Václav" creationdate="20180411T122302Z">
+        <seg>Pro více detailů se podívejte do uživatelské příručky.) Klikněte na Soubor &gt; Uložit jako, zadejte název souboru a uložte jej ve formátu .odt.</seg>
       </tuv>
     </tu>
     <tu>
