@@ -1,3 +1,5 @@
 file	soubor
 home	domů
 cover illustration	kresba
+tool	nástroje
+tool	nástroj
