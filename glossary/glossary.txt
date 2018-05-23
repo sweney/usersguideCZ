@@ -1,1 +1,3 @@
 file	soubor
+home	domů
+cover illustration	kresba
