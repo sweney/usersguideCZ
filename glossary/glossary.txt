@@ -5,3 +5,5 @@ tool	nástroje
 tool	nástroj
 tool	nástroj
 Of course	Samozřejmě
+Of course	Samozřejmě
+Of course	Samozřejmě
