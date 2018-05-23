@@ -3,3 +3,5 @@ home	domů
 cover illustration	kresba
 tool	nástroje
 tool	nástroj
+tool	nástroj
+Of course	Samozřejmě
