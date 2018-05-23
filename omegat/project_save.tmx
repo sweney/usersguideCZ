@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1296,8 +1296,8 @@
       <tuv lang="EN-US">
         <seg>OmegaT for</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052938Z" creationid="Vasee" creationdate="20180408T052938Z">
-        <seg>OmegaT pro</seg>
+      <tuv lang="cs-CZ" changeid="Martina" changedate="20180523T152109Z" creationid="Vasee" creationdate="20180408T052938Z">
+        <seg>https://docs.google.com/document/d/1L3PozvWp8ATDp9eA_2QiGlud7jYTEYjocW06VSMlHhY/editOmegaT pro</seg>
       </tuv>
     </tu>
     <tu>
