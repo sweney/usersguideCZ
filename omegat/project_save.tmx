@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This document is intended for translators who are not experienced with Computer Assisted Translation (CAT) tools, and discusses only the basics.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Martina" changedate="20180523T165126Z" creationid="Martina" creationdate="20180523T165126Z">
+        <seg>Tento manuál je určen překladatelům, kteří nemají zkušenosti s nástroji počítačem podporovaného překladu (CAT), a z tohoto důvodu se věnuje pouze základům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This does not demonstrate OmegaT’s full capabilities, but is intended to help the “newbie” grasp the most essential procedures.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094609Z" creationid="Vasee" creationdate="20180411T094609Z">
