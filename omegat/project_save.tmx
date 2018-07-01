@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1008,8 +1008,8 @@
       <tuv lang="EN-US">
         <seg>If you prefer to read through the finished text on the screen, i.e., in your browser, toggle between the browser and OmegaT.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180512T173132Z" creationid="ivaparakova" creationdate="20180512T172504Z">
-        <seg>Pokud si chcete dokončený text přečíst na obrazovce ve vašem prohlížeči, můžete přepínat mezi prohlížečem a OmegaT.</seg>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180701T143922Z" creationid="ivaparakova" creationdate="20180512T172504Z">
+        <seg>ONPokud si chcete dokončený text přečíst na obrazovce ve vašem prohlížeči, můžete přepínat mezi prohlížečem a OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
